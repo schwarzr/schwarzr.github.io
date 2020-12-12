@@ -5029,7 +5029,7 @@
                 "sich von den Fahrgästen beschimpfen zu lassen",
                 "seinen Dienst ausgeruht anzutreten"
             ],
-            "chapter": "3f ",
+            "chapter": "3f",
             "results": [
                 false,
                 false,
@@ -5047,7 +5047,7 @@
                 "Negative Äußerungen über Vorgesetzte",
                 "Negative Äußerungen über Mitbewerber"
             ],
-            "chapter": "3f ",
+            "chapter": "3f",
             "results": [
                 false,
                 true,
