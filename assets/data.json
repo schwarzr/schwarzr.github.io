@@ -1,0 +1,5350 @@
+﻿{
+    "questions": [
+        {
+            "answers": [
+                "bei sehr niedriger Drehzahl",
+                "bei sehr hoher Drehzahl",
+                "das ist egal, der Motor braucht immer gleich viel Treibstoff",
+                "im grün gekennzeichneten Bereich am Drehzahlmesser"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "1",
+            "question": "In welchem Drehzahlbereich des Motors fährt man mit den besten Verbrauchswerten?"
+        },
+        {
+            "answers": [
+                "Erst, wenn die Drehzahl auf Leerlaufdrehzahl abgesunken ist",
+                "Wenn die Motordrehzahl trotz Vollgas unter den \"grünen Bereich\" des Drehzahlmessers zu sinken droht",
+                "Wenn der Motor stark zu vibrieren beginnt",
+                "Wenn die Motordrehzahl nur mit Vollgas im \"grünen Bereich\" des Drehzahlmessers gehalten werden kann"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "2",
+            "question": "Sie befahren mit Ihrem LKW/Bus eine Steigung. Wann müssen Sie zurückschalten?"
+        },
+        {
+            "answers": [
+                "Das Drehmoment steigt an",
+                "Das Drehmoment fällt ab",
+                "Das Drehmoment bleibt annähernd gleich",
+                "Das Drehmoment fällt ab und steigt dann wieder an"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "3",
+            "question": "Welche Folgen für das Drehmoment hat es, wenn die Motordrehzahl außerhalb des \"grünen Bereiches\" gefahren wird?"
+        },
+        {
+            "answers": [
+                "Der Kraftstoffverbrauch steigt an",
+                "Der Kraftstoffverbrauch fällt ab",
+                "Der Kraftstoffverbrauch bleibt annähernd gleich",
+                "Der Kraftstoffverbrauch fällt ab und steigt dann wieder an"
+            ],
+            "chapter": "1a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "4",
+            "question": "Welche Folgen für den Kraftstoffverbrauch hat es, wenn die Motordrehzahl außerhalb des \"grünen Bereiches\" gefahren wird?"
+        },
+        {
+            "answers": [
+                "Jener Gang, mit dem die Drehzahl des Motors im grünen Bereich verbleibt",
+                "Wenn möglich, hochtourig fahren",
+                "Wenn möglich, immer Zwischengas geben",
+                "Wenn möglich, immer Doppelkuppeln"
+            ],
+            "chapter": "1a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "5",
+            "question": "Welche Gangwahl begünstigt einen niedrigen Kraftstoffverbrauch?"
+        },
+        {
+            "answers": [
+                "Ottomotor",
+                "Dieselmotor",
+                "Wasserstoffmotor",
+                "Elektromotor"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "6",
+            "question": "Welche Motoren werden hauptsächlich bei Nutzfahrzeugen eingesetzt?"
+        },
+        {
+            "answers": [
+                "Auf einem Aufkleber im Einstiegsbereich",
+                "Auf einem Aufkleber bei den Reifen",
+                "In der Betriebsanleitung des Fahrzeuges",
+                "In der Zulassungsbescheinigung des Fahrzeuges"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "7",
+            "question": "Wo finden sie den im Hinblick auf den Kraftstoffverbrauch des Motors idealen Drehzahlbereich?"
+        },
+        {
+            "answers": [
+                "Für das niedrigste Drehmoment des Motors.",
+                "Für die höchste Leistung des Motors.",
+                "Für optimale Bodenhaftung",
+                "Für den spezifisch geringsten Kraftstoffverbrauch des Motors"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "8",
+            "question": "Am Armaturenbrett ihres LKWs/Busses befindet sich ein Drehzahlmesser. Wofür steht das grüne Kennfeld?"
+        },
+        {
+            "answers": [
+                "Für die niedrigste Leistung des Motors",
+                "Für geringe Motorabnützung",
+                "Für das höchste Drehmoment des Motors",
+                "Für den höchsten Kraftstoffverbrauch des Motors"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "9",
+            "question": "Am Armaturenbrett ihres LKWs/Busses befindet sich ein Drehzahlmesser. Wofür steht das rote Kennfeld?"
+        },
+        {
+            "answers": [
+                "geringster spezifischer Kraftstoffverbrauch",
+                "niedrigstes Drehmoment des Motors",
+                "höchste Leistung des Motors",
+                "höchste Umweltbelastung"
+            ],
+            "chapter": "1a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "10",
+            "question": "Was bedeutet Fahren im grünen Drehzahlbereich des Drehzahlmessers?"
+        },
+        {
+            "answers": [
+                "Nachbehandlung der Abgase mit Wasserstoff",
+                "Durch Abgasrückführung in Kombination mit einem Dieselpartikelfilter",
+                "Durch die Beimengung von Benzin zum Dieselkraftstoff",
+                "Durch Abschaltung von 2 bzw. 4 Zylinder des Motors beim Bergabfahren"
+            ],
+            "chapter": "1a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "11",
+            "question": "Wodurch erfolgt die Reduzierung der schädlichen Abgase eines Dieselmotors?"
+        },
+        {
+            "answers": [
+                "Um den Motor wirtschaftlich (grüner Drehzahlbereich) betreiben zu können.",
+                "Um immer die höchste Leistung des Motors nutzen zu können.",
+                "Um die Höchstgeschwindigkeit des Kraftfahrzeuges nutzen zu können.",
+                "Um das niedrigste Drehmoment des Motors optimal nutzen zu können."
+            ],
+            "chapter": "1a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "12",
+            "question": "Warum haben moderne Kraftfahrzeuge Getriebe mit Vor- und Nachschaltgruppen?"
+        },
+        {
+            "answers": [
+                "Zu langsames Fahren auf schlechten Straßen (z.B. Baustellen)",
+                "Lenken am Stand",
+                "Einschlagen der Vorderräder während der Fahrt ",
+                "Längere Fahrten mit hohem Tempo auf der Autobahn"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "13",
+            "question": "Sie lenken einen vollbeladenen LKW/BUS. Welche Handlungen schaden der Lenkung?"
+        },
+        {
+            "answers": [
+                "Ab dem Überströmventil",
+                "Ab dem Mehrkreisschutzventil",
+                "Ab dem Motorwagenbremsventil",
+                "Ab dem Druckregler"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "14",
+            "question": "Ab welchem Bauteil einer Druckluftbremsanlage ist eine Zweikreisbremsanlage in zwei Kreise geteilt?"
+        },
+        {
+            "answers": [
+                "Im Vorspannzylinder",
+                "In der Bremstrommel",
+                "Im Radbremszylinder",
+                "Im Motorwagenbremsventil"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "15",
+            "question": "Bei einer hydraulischen Bremsanlage mit Druckluftbetätigung ist es möglich, anhand eines Schleppstiftes zu erkennen, dass die Bremse nachgestellt werden muss. Wo ist dieser Schleppstift eingebaut?"
+        },
+        {
+            "answers": [
+                "Ich repariere den gerissenen Keilriemen und verwende ihn weiter",
+                "Ich ersetze nur den gerissenen Keilriemen",
+                "Ich fahre weiter, bis der 2. Keilriemen reißt und ersetze dann beide",
+                "Ich ersetze beide Keilriemen"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "16",
+            "question": "Der Kompressor wird durch zwei Keilriemen angetrieben. Ein Keilriemen reißt. Was machen Sie?"
+        },
+        {
+            "answers": [
+                "Am Bremsgestänge",
+                "Er hat drei Zuleitungen",
+                "Er hat zwei Zuleitungen",
+                "Er hat drei getrennte Zylinder"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "17",
+            "question": "Der LKW/Bus hat eine Druckluftbremsanlage. Woran erkennen Sie einen Tristopzylinder?"
+        },
+        {
+            "answers": [
+                "Die Bremsbeläge können abgenützt sein",
+                "Der Vorratskreis ist undicht",
+                "Der Kompressor liefert zu wenig Luft",
+                "Der Leerweg am Bremspedal kann zu groß sein"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "18",
+            "question": "Der Vorratsdruck einer Druckluftbremsanlage fällt bei einer Vollbremsung um mehr als 0,7bar ab. Welche Ursachen kann dies haben?"
+        },
+        {
+            "answers": [
+                "Der Abschaltdruck der Druckluftbremse ist zu hoch",
+                "Das Fahrzeug ist zu schwer beladen",
+                "Der Bremsbelag ist bereits zu stark abgenützt",
+                "Eine falsch eingestellte oder defekte ALB"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "19",
+            "question": "Die Hinterräder eines unbeladenen LKWs/Busses mit automatisch lastabhängiger Bremskraftregelung (ALB) blockieren bei jeder stärkeren Bremsung. Welche Ursache kann das haben?"
+        },
+        {
+            "answers": [
+                "Noch mindestens 4 Vollbremsungen",
+                "Noch mindestens 2 Vollbremsungen",
+                "Noch mindestens 1 Vollbremsung",
+                "Keine"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "20",
+            "question": "Die Warnleuchte für den Druckluftvorrat leuchtet auf. Wieviele Bremsungen können Sie noch durchführen?"
+        },
+        {
+            "answers": [
+                "Anhalten und Fremdbelüftungsanschluss aktivieren",
+                "Weiterfahren und Beobachten der Warnleuchte",
+                "Weiterfahren und Beobachten der Druckmanometer",
+                "Anhalten und Fehlersuche nach Betriebsanleitung"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "21",
+            "question": "Die Warnleuchte für den Druckluftvorrat leuchtet auf. Wie verhalten Sie sich?"
+        },
+        {
+            "answers": [
+                "Die Vorratsdrücke der Kreise 1 und 2",
+                "Die Bremsdrücke der Kreise 1 und 2",
+                "Den Druck in der gesamten Druckluftanlage",
+                "Den Druck in den Bremskreisen des LKWs/Busses und des Anhängers"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "22",
+            "question": "Ihr LKW/Bus hat ein Doppeldruckmanometer eingebaut. Welche Drücke zeigen Ihnen die beiden Zeiger an?"
+        },
+        {
+            "answers": [
+                "Beide Zeiger fallen auf den Sicherungsdruck ab",
+                "Ein Zeiger fällt um 0,5 bar ab, der andere Zeiger bleibt unbeeinflußt",
+                "Beide Zeiger steigen um 0,5 bar an",
+                "Beide Zeiger fallen um ca. 0,5 bar ab"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "23",
+            "question": "Ihr LKW/Bus hat ein Doppeldruckmanometer für die Vorratsdrücke der Kreise 1 und 2. Wie bewegen sich die Zeiger bei einer Vollbremsung?"
+        },
+        {
+            "answers": [
+                "Ich werde mit eingebremster Federspeicherbremsanlage langsam bis zur nächsten Werkstatt fahren",
+                "Ich muss den LKW/Bus abschleppen lassen",
+                "Ich werde den Federspeicherzylinder ausbauen",
+                "Ich kann die Federspeicherbremse mechanisch lösen"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "24",
+            "question": "Ihr LKW/Bus ist durch den Ausfall der Druckluft im Federspeicherteil zum Stillstand gekommen. Die Betriebsbremsanlage funktioniert einwandfrei. Wie kommen Sie zur nächsten Werkstatt?"
+        },
+        {
+            "answers": [
+                "Ja, über die Wahl des Getriebeganges",
+                "Ja, durch die Fußkraft",
+                "Ja, über den Handbremshebel",
+                "Ja, über den Druckregler"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "25",
+            "question": "Können Sie die Wirkung der Motorstaubremse abstufen?"
+        },
+        {
+            "answers": [
+                "Vor und während des Zurückschaltens in einen niedrigeren Gang",
+                "Zum dauerndem Mitbremsen",
+                "Beim Abbremsen aus hoher Geschwindigkeit, möglichst vor jeder Kurve",
+                "Zum Konstant halten der Geschwindigkeit über die gesamte Gefällestrecke"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "26",
+            "question": "Sie befahren mit Ihrem LKW/Bus eine längere Gefällestrecke. Wann verwenden Sie die Betriebsbremse?"
+        },
+        {
+            "answers": [
+                "Die Betriebsbremse",
+                "Die Verlangsamerbremse",
+                "Die Feststellbremse",
+                "Die Hilfsbremse"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "27",
+            "question": "Sie befahren mit Ihrem LKW/Bus eine längere Gefällestrecke. Welche Bremse werden Sie überwiegend verwenden?"
+        },
+        {
+            "answers": [
+                "Nur den Teil vom Motorwagenbremsventil bis zu den Radbremszylindern",
+                "Den Teil vom Druckregler bis zu den Radbremszylindern",
+                "Nur den Teil vom Motorwagenbremsventil bis zum Druckregler",
+                "Den Teil vom Kompressor bis zum Druckregler"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "28",
+            "question": "Sie machen die Dichtheitsprobe bei vollständiger Betätigung des Bremspedals. Welchen Teil der Druckluftbremsanlage haben Sie damit überprüft?"
+        },
+        {
+            "answers": [
+                "Den Teil vom Motorwagenbremsventil bis zu den Radbremszylindern",
+                "Den Teil vom Druckregler bis zum Motorwagenbremsventil",
+                "Den Teil vom Motorwagenbremsventil bis zum Anhängersteuerventil",
+                "Den Teil vom Kompressor bis zum Druckregler"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "29",
+            "question": "Sie machen im ungebremsten Zustand eine Dichtheitsprobe. Welchen Teil der Druckluftbremsanlage haben Sie dann überprüft?"
+        },
+        {
+            "answers": [
+                "5 %  des Abschaltdruckes",
+                "2 %  des Abschaltdruckes",
+                "10 %  des Abschaltdruckes",
+                "15 %  des Abschaltdruckes"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "30",
+            "question": "Sie überprüfen die Dichtheit der Vorratskreise. Um wieviel darf der Druck in 10 Minuten absinken?"
+        },
+        {
+            "answers": [
+                "Um 20 % des Abschaltdruckes",
+                "Um 10 % des Abschaltdruckes",
+                "Um 30 % des Abschaltdruckes",
+                "Kaum merkbar"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "31",
+            "question": "Sie überprüfen die Dichtheit des Vorratskreises. Um wie viel darf der Druck in 3 Minuten absinken?"
+        },
+        {
+            "answers": [
+                "0,3  bar",
+                "0,7  bar",
+                "0,5  bar",
+                "0,1  bar"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "32",
+            "question": "Um wie viel darf der Druck im Vorratsbehälter einer Druckluftbremsanlage bei einer Vollbremsung höchstens abfallen?"
+        },
+        {
+            "answers": [
+                "Wenn das Fahrzeug ohne zu bremsen stark verzögert",
+                "Wenn die Fahrgeschwindigkeit ohne zu bremsen annähernd gleich bleibt",
+                "Wenn der Motor nicht zu heiß wird",
+                "Wenn ich dauernd leicht mitbremsen muss"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "33",
+            "question": "Wann ist die Motorbremswirkung im Gefälle ausreichend?"
+        },
+        {
+            "answers": [
+                "Jährlich vor der kalten Jahreszeit",
+                "immer nur nach 5 Jahren",
+                "Wöchentlich",
+                "Wenn beim Entwässern der Behälter Kondenswasser mit der Druckluft austritt"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "34",
+            "question": "Wann ist der optimale Zeitpunkt, um die Lufttrockner- Kartuschen zu erneuern?"
+        },
+        {
+            "answers": [
+                "Das Sicherheitsventil öffnet um ca. 3 -4 bar über den Abschaltdruck",
+                "Der Kompressor schaltet sich ab",
+                "Die Keilriemen reißen",
+                "Die Entwässerungsventile der Luftbehälter öffnen sich"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "35",
+            "question": "Was geschieht, wenn der Druckregler einer Druckluftbremsanlage durch einen Defekt nicht abschaltet?"
+        },
+        {
+            "answers": [
+                "Wenn die Druckluftbehälter eingebeult sind",
+                "Wenn das Mehrkreisschutzventil nicht alle Kreise öffnet",
+                "Wenn der Kompressor zu wenig fördert",
+                "Wenn die Keilriemen zu stark gespannt sind"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "36",
+            "question": "Was kann die Ursache einer zu langen Fülldauer der Luftbehälter sein?"
+        },
+        {
+            "answers": [
+                "Der Antriebsriemen des Kompressors ist gerissen",
+                "Die Motordrehzahl ist zu gering",
+                "Der Kompressor kann Kompressionsverluste haben",
+                "Der Druckregler kann defekt sein"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "37",
+            "question": "Was kann die Ursache sein, wenn der Kompressor zu wenig Luft fördert?"
+        },
+        {
+            "answers": [
+                "Den Fahrbahnzustand",
+                "Die Temperatur des Motors",
+                "Die Betriebsbremse darf nicht gleichzeitig verwendet werden",
+                "Die Stellung des Handbremshebels"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "38",
+            "question": "Was müssen Sie beachten, wenn Sie die Motorstaubremse des LKWs/Busses verwenden?"
+        },
+        {
+            "answers": [
+                "Ein Anti-Blockier-System",
+                "Eine hydraulische Strömungsbremse",
+                "Eine automatisch lastabhängige Bremskraftregelung",
+                "Eine Anfahrhilfe"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "39",
+            "question": "Was ist ein \"ABS\"?"
+        },
+        {
+            "answers": [
+                "Der Druck, bei dem der Druckregler den Kompressor in den Lastlauf schaltet",
+                "Der Druck, bei dem der Kompressor stehen bleibt",
+                "Der Druck, ab dem der Kompressor keine Luft in die Vorratsbehälter fördert",
+                "Der Druck, bei dem der Druckregler das Abblasen der Druckluft ins Freie abstellt"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "40",
+            "question": "Was verstehen Sie unter dem \"Abschaltdruck\" einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Das ist der Druck, bei dem der Druckregler die vom Kompressor geförderte Luft ins Freie lässt",
+                "Das ist der Druck, bei dem der Druckregler die vom Kompressor geförderte Luft wieder in die Luftbehälter lässt",
+                "Das ist der Druck, bei dem der Druckregler den Kompressor in den Leerlauf schaltet",
+                "Das ist der Druck, bei dem der Druckregler das Abblaseventil einschaltet"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "41",
+            "question": "Was verstehen Sie unter dem \"Einschaltdruck\" einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Das ist jener Druck von 11 - 14 bar, bei dem das Sicherheitsventil im Druckregler öffnet, wenn der Abschaltvorgang versagt",
+                "Das ist der Selbststabilisierungsdruck eines Kompressors",
+                "Der Druck, bei dem das Fahrzeug sicherheitshalber automatisch abgebremst wird",
+                "Das ist jener Druck, der bei Ausfall eines Druckluftkreises erhalten bleiben muss"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "42",
+            "question": "Was verstehen Sie unter dem \"Sicherungsdruck\" einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Ist jener Druck, der bei einer Bremsung höchstens erreicht werden kann",
+                "Ist der Druckunterschied zwischen Einschalt- und Abschaltdruck",
+                "Ist ein Druck von 65 % des Abschaltdruckes",
+                "Ist jener Druck, ab dem mit dem LKW/Bus gefahren werden darf"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "43",
+            "question": "Was verstehen Sie unter dem \"Betriebsdruck\" einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Eine elektronisch überwachte Bremsanlage",
+                "Eine Bremsanlage, die nach Ausfall der elektronischen Regelung noch zweikreisig, rein pneumatisch arbeitet",
+                "Eine Druckluftbremse mit Anti-Blockier-System",
+                "Eine Druckluftbremse mit Bremsdruckkraftbegrenzer"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "44",
+            "question": "Was verstehen Sie unter einem elektronisch geregelten Bremssystem (EBS)?"
+        },
+        {
+            "answers": [
+                "Eine Bremsanlage, bei der die Bremskraft durch Druckluft erzeugt wird",
+                "Eine Bremsanlage, bei der die Bremskraft durch Flüssigkeitsdruck erzeugt wird",
+                "Eine Bremsanlage, bei der die Bremskraft durch Unterdruck erzeugt wird",
+                "Eine Bremsanlage, bei der die Bremskraft durch Muskelkraft erzeugt wird"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "45",
+            "question": "Was verstehen Sie unter einer \"Druckluftbremsanlage\"?"
+        },
+        {
+            "answers": [
+                "Eine Bremsanlage mit Blockierschutz",
+                "Eine Regelung der Bremskraft entsprechend den Witterungsverhältnissen",
+                "Eine Anlage, welche die Bremskraft der Achsen nach dem Beladungszustand automatisch regelt",
+                "Eine automatisch selbstnachstellende Bremsanlage"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "46",
+            "question": "Was verstehen Sie unter einer ALB-Regelung bei einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "elektronisch gesteuerte ALB-Regler",
+                "Druckluft-gesteuerte ALB-Regler",
+                "Händisch gesteuerte ALB-Regler",
+                "Unterdruck-gesteuerte ALB-Regler"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "47",
+            "question": "Welche Arten von ALB-Reglern kennen Sie?"
+        },
+        {
+            "answers": [
+                "Einkammer-Lufttrockner",
+                "Fahrtwindbetätigte Lufttrockner",
+                "Handbetätigte Lufttrockner",
+                "Lufttrockner, die über die Klimaanlage des LKWs/Busses betätigt werden"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "48",
+            "question": "Welche Arten von Lufttrocknern gibt es?"
+        },
+        {
+            "answers": [
+                "Kolbenbremszylinder",
+                "Membranbremszylinder",
+                "Tristopzylinder",
+                "Vorspannzylinder"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "49",
+            "question": "Welcher Zylinder ist kein Radbremszylinder?"
+        },
+        {
+            "answers": [
+                "Motorkolbenbremse",
+                "Feststellbremse",
+                "Fahrtwindbremse",
+                "hydraulische Strömungsbremse (Retarder)"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "50",
+            "question": " Was ist eine Verlangsamerbremsanlage?"
+        },
+        {
+            "answers": [
+                "Es sichert den Druck in den anderen Vorratskreisen, wenn ein Vorratskreis ausfällt",
+                "Es sichert den Druck im Federspeicherzylinder, wenn die Betriebsbremsanlage ausfällt",
+                "Es sichert den Druck in den Vorratsbehältern, wenn ein Radbremszylinder ausfällt",
+                "Es sichert den Druck in den anderen Bremskreisen, wenn ein Bremskreis ausfällt"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "51",
+            "question": "Welche Aufgabe hat das Mehrkreisschutzventil einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Er regelt die Fördermenge",
+                "Er bestimmt den Sicherungsdruck",
+                "Er regelt den Betriebsdruck zwischen Ein- und Abschaltdruck",
+                "Er regelt den Bremsdruck"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "52",
+            "question": "Welche Aufgabe hat der Druckregler einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Der vom Kompressor geförderten Luft die Feuchtigkeit zu entziehen",
+                "Die Luft des Führerhauses zu trocknen",
+                "Die angesaugte Luft des Motors zu trocknen, um die Leistung zu steigern",
+                "Die vom Turbolader komprimierte Luft zu trocknen"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "53",
+            "question": "Welche Aufgabe hat der Lufttrockner einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Er verhindert das Überbremsen der Hinterräder",
+                "Er wirkt auch durch abgestuftes Entlüften des Federspeicherzylinders nicht als Hilfsbremse",
+                "Er wirkt durch Belüften des Membranbremszylinders als Feststellbremse",
+                "Er wirkt durch Entlüften des Federspeicherzylinders als Feststellbremse"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "54",
+            "question": "Welche Aufgaben hat der Tristopzylinder einer Druckluftbremsanlage?"
+        },
+        {
+            "answers": [
+                "Die Wirbelstrombremse",
+                "Die hydraulische Strömungsbremse",
+                "Die Motorstaubremse",
+                "Die Federspeicherbremsanlage"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "55",
+            "question": "Welche Bremsanlage eines LKWs/Busses kann als Hilfsbremsanlage verwendet werden?"
+        },
+        {
+            "answers": [
+                "hydraulische Strömungsbremse (Retarder)",
+                "Feststellbremse",
+                "Fahrtwindbremse",
+                "Motorkolbenbremse"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "56",
+            "question": "Welche der folgenden Bremsen funktionieren ohne nennenswerten Verschleiß?"
+        },
+        {
+            "answers": [
+                "Festtellbremse",
+                "Hydraulische Strömungsbremse (Retarder)",
+                "Fahrtwindbremse",
+                "Motordrosselbremse "
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "57",
+            "question": "Welche Verlangsamerbremsen sind dosierbar zu betätigen?"
+        },
+        {
+            "answers": [
+                "Kürzere Ansprechzeit",
+                "Kürzerer Bremsweg ",
+                "Robustere Bauart",
+                "Sie müssen nicht so oft nachgestellt werden wie Kolbenbremszylinder"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "58",
+            "question": "Welche Vorteile haben Membranbremszylinder gegenüber Kolbenbremszylindern?"
+        },
+        {
+            "answers": [
+                "Es darf damit schneller gefahren werden",
+                "Der Kraftstoffverbrauch wird geringer",
+                "Ein automatisch-lastabhängiger Bremskraftregler ist nicht erforderlich",
+                "Nach Ausfall eines Druckluftbremskreises wirkt die Bremse immer noch auf alle Räder"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "59",
+            "question": "Welche Vorteile hat ein elektronisch geregeltes Bremssystem gegenüber einer Druckluftbremse ohne EBS?"
+        },
+        {
+            "answers": [
+                "Das Fahrzeug kann nicht entwendet werden",
+                "Das Fahrzeug kann auch ohne Druckluft verwendet werden.",
+                "Es ist auch bei Totalausfall der Druckluftbremsanlage eine Bremsung möglich",
+                "Der Druckluftverbrauch ist geringer als beim Belüften der Radbremszylinder"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "60",
+            "question": "Welche Vorteile hat es, dass die Federspeicherbremsanlage durch Entlüften eingebremst wird?"
+        },
+        {
+            "answers": [
+                "Sie entlasten und schonen die Betriebsbremsanlage",
+                "Sie verhindert das Überhitzen der Reifen",
+                "Sie verringern den Kraftstoffverbrauch",
+                "Mit ihnen kann man bei Ausfall der Betriebsbremsanlage das Fahrzeug zum Stillstand bringen"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "61",
+            "question": "Welchen Zweck haben Verlangsameranlagen?"
+        },
+        {
+            "answers": [
+                "Mindestens 10% des Einschaltdruckes",
+                "Mindestens 65% des Einschaltdruckes",
+                "Mindestens 10% des Abschaltdruckes",
+                "Mindestens 65% des Abschaltdruckes"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "62",
+            "question": "Welcher Druck muss im 2. Kreis der Betriebsbremsanlage erhalten bleiben, wenn der 1. Kreis ausfällt?"
+        },
+        {
+            "answers": [
+                "Die Kontrolllampen erlöschen, der Summer verstummt",
+                "Das Manometer zeigt den Abschaltdruck an",
+                "Das Motorwagenbremsventil lässt sich nicht mehr ganz durchdrücken",
+                "Es lässt sich ein Gang einlegen"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "63",
+            "question": "Wie erkennen Sie nach dem Starten eines LKWs/Busses, dass die Druckluftbremsanlage den Betriebsdruck erreicht hat?"
+        },
+        {
+            "answers": [
+                "Wenn bei einer Bremsung mehr als 0,7 bar Druckabfall entsteht",
+                "Wenn die Bremsanlage einseitig wirkt",
+                "Wenn über die Schaulöcher durch Indikatoren am Bremsbelag die Verschleißgrenze erkennbar ist",
+                "Wenn ein Wegfahren nicht möglich ist"
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "64",
+            "question": "Wie erkennen Sie, ob bei einer Druckluftbremsanlage die Bremsbeläge zu erneuern sind?"
+        },
+        {
+            "answers": [
+                "Haltemöglichkeit aufsuchen, Motor abstellen und nochmals starten; \r\nfalls die Kontrollleuchte immer noch leuchtet, Werkstätte aufsuchen.",
+                "Anhalten; \r\ndie Kontrollleuchte signalisiert, dass nur noch ein Kreis der pneumatischen Bremsanlage funktioniert.",
+                "Sofort Anhalten; \r\njede Weiterfahrt ist verboten",
+                "Weiterfahren; \r\nes wird nur zwischendurch angezeigt, dass ABS noch in Ordnung ist"
+            ],
+            "chapter": "1b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "65",
+            "question": "Während der Fahrt leuchtet die ABS-Kontrollleuchte auf. Wie verhalten sie sich?"
+        },
+        {
+            "answers": [
+                "Bremse mit Wasser kühlen",
+                "Anhalten und Bremse auskühlen lassen.",
+                "Weiterfahren und mittels Fahrtwind die Bremse abkühlen lassen, auch wenn das Gefälle noch länger andauert",
+                "Weiterfahren, da eine überhitzte Bremse besser bremst als eine kalte."
+            ],
+            "chapter": "1b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "66",
+            "question": "Wie verhalten sie sich bei Überhitzung der Bremse?"
+        },
+        {
+            "answers": [
+                "Ja, über den Druckregler",
+                "Ja, durch die Fußkraft.",
+                "Ja, über den Handbremshebel.",
+                "Ja, über die Wahl des Getriebeganges."
+            ],
+            "chapter": "1c",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "67",
+            "question": "Können Sie die Wirkung der Motorstaubremse abstufen?"
+        },
+        {
+            "answers": [
+                "Er Schaltet in den Leerlauf und lässt das Fahrzeug rollen.",
+                "Er wählt den nächstniedrigeren Gang.",
+                "Er hält sofort an und stellt den Motor ab.",
+                "Er schaltet einen Gang hoch, um die Drehzahl zu senken."
+            ],
+            "chapter": "1c",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "68",
+            "question": "Die Anzeige des Drehzahlmessers wandert aus dem grünen Bereich in den roten. Was muss der Fahrer eines Kraftfahrzeuges jetzt machen?"
+        },
+        {
+            "answers": [
+                "Durch frühes Hochschalten.",
+                "Laufenlassen des Motors vor geschlossenen Bahnschranken.",
+                "Laufenlassen des Motors beim kurzfristigen Be- und Entladen des Fahrzeuges.",
+                "Durch häufiges Fahren im oberen Drehzahlbereich."
+            ],
+            "chapter": "1c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "69",
+            "question": "Wodurch lässt sich Kraftstoff einsparen?"
+        },
+        {
+            "answers": [
+                "Fahren mit zu geringem Luftdruck",
+                "Möglichst mit Vollgas fahren.",
+                "Fahren im \"roten\" Drehzahlbereich.",
+                "Möglichst frühes Schalten."
+            ],
+            "chapter": "1c",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "70",
+            "question": "Was führt zu einer Verminderung des Kraftstoffverbrauches?"
+        },
+        {
+            "answers": [
+                "Gefahr des Auffahrens auf den Vordermann",
+                "Abkommen von der Fahrbahn durch Auskuppeln",
+                "Abkommen von der Fahrbahn durch starkes Bremsen",
+                "Schleudergefahr durch Auskuppeln"
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "71",
+            "question": "Welche Gefahren können durch Fehlverhalten beim Durchfahren einer Kurve entstehen?"
+        },
+        {
+            "answers": [
+                "Jede.",
+                "Nur die verrutschen kann.",
+                "Nur die, von der eine Gefahr ausgeht.",
+                "Nur schwere Lasten."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "72",
+            "question": "Welche Ladung ist zu sichern?"
+        },
+        {
+            "answers": [
+                "Der Lenker.",
+                "Der Zulassungsbesitzer.",
+                "Der Belader.",
+                "Der Empfänger."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "73",
+            "question": "Wer ist für die Ladungssicherung nicht zuständig?"
+        },
+        {
+            "answers": [
+                "Luftkissen.",
+                "Paletten.",
+                "Kantenschutz.",
+                "Anschlagleisten."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "74",
+            "question": "Was sind Hilfsmittel für die kraftschlüssige Ladungssicherung?"
+        },
+        {
+            "answers": [
+                "Man muß weniger Kraft zur Sicherung aufbringen.",
+                "Man muß mehr Kraft zur Sicherung aufbringen.",
+                "Der Kraftaufwand bleibt gleich.",
+                "Ladung muss besonders gekennzeichnet werden."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "75",
+            "question": "Wie wirkt sich ein niedriger Gleit-Reibwert auf die Ladungssicherung aus?"
+        },
+        {
+            "answers": [
+                "Rotes Tuch.",
+                "Weiße Tafel mit rotem Rand, rückstrahlend.",
+                "ECE-Tafel, rot-weiß-schraffiert.",
+                "Blaulicht"
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "76",
+            "question": "Wie ist eine nach hinten über die Ladefläche hinausragende Ladung zu kennzeichnen?"
+        },
+        {
+            "answers": [
+                "Um einer Polizeistrafe zu entgehen.",
+                "Um keine Probleme mit dem Absender zu bekommen.",
+                "Um die Versicherungsprämien niedrig zu halten.",
+                "Um die Verkehrssicherheit zu erhöhen."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "77",
+            "question": "Warum muss Ladung gesichert werden?"
+        },
+        {
+            "answers": [
+                "Wenn sie Anzeichen von Schäden zeigen.",
+                "6 Monate.",
+                "2 Jahre.",
+                "13 Wochen."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "78",
+            "question": "Wann ist die Ablagereife von Zurrgurten erreicht?"
+        },
+        {
+            "answers": [
+                "Wenn sie Anzeichen von Schäden zeigen.",
+                "2 Jahre.",
+                "6 Monate.",
+                "13 Wochen."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "79",
+            "question": "Wann ist die Ablagereife von Zurrdrahtseilen erreicht?"
+        },
+        {
+            "answers": [
+                "Wenn sie Anzeichen von Schäden zeigen.",
+                "13 Wochen.",
+                "2 Jahre.",
+                "6 Monate."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "80",
+            "question": "Wann ist die Ablagereife von Zurrketten erreicht?"
+        },
+        {
+            "answers": [
+                "20%",
+                "100%.",
+                "5%.",
+                "80%."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "81",
+            "question": "Wieviel Prozent der Gewichtskraft einer Ladung ist nach vorne durch geeignete Hilfsmittel zu sichern?"
+        },
+        {
+            "answers": [
+                "50%.",
+                "5%.",
+                "15%.",
+                "100%."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "82",
+            "question": "Wieviel Prozent der Gewichtskraft einer Ladung ist nach hinten durch geeignete Hilfsmittel zu sichern?"
+        },
+        {
+            "answers": [
+                "75%.",
+                "5%.",
+                "98%.",
+                "50%."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "83",
+            "question": "Wieviel Prozent der Gewichtskraft einer Ladung ist seitlich durch geeignete Hilfsmittel zu sichern?"
+        },
+        {
+            "answers": [
+                "Ja, gegen Vibrationen.",
+                "Nein.",
+                "Ja, aber nur wenn Reibkraft mehr als 150% der Gewichtskraft beträgt.",
+                "Nein, außer bei starkem Seitenwind."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "84",
+            "question": "Ist eine Ladung, bei welcher die Reibkraft höher als die Gewichtskraft ist, zu sichern?"
+        },
+        {
+            "answers": [
+                "Ja, gegen Vibrationen.",
+                "Nein.",
+                "Nur wenn Gefahr für den Lenker oder anderer Personen besteht.",
+                "Gefahrgut."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "85",
+            "question": "Muss eine Ladung in geschlossenen Aufbauten gesichert werden"
+        },
+        {
+            "answers": [
+                "Planenverdeck.",
+                "Netz.",
+                "Zurrgurten oder Zurrketten.",
+                "Gar nicht."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "86",
+            "question": "Wie ist eine Ladung mit Staubentwicklung zu sichern?"
+        },
+        {
+            "answers": [
+                "Ja. ",
+                "Nein.",
+                "Zur Hälfte.",
+                "Nur wenn das Ladegut auch händisch entladen werden kann."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "87",
+            "question": "Ersetzen die in einen Gardinenzug eingearbeiteten Bänder Zurrgurte für die Ladegutsicherung?"
+        },
+        {
+            "answers": [
+                "höchstzulässiges Gesamtgewicht",
+                "Maximale Zurrkraft im Direktzug und in der Umreifung.",
+                "Ablaufdatum.",
+                "Maximales Gewicht der zu sichernden Ladung."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "88",
+            "question": "Welche Angaben sind auf dem Herstellerschild eines Zurrgurtes ersichtlich?"
+        },
+        {
+            "answers": [
+                "Zulässige Zugkraft.",
+                "Maximale Fahrgeschwindigkeit.",
+                "Ablaufdatum.",
+                "Maximales Gewicht der zu sichernden Ladung."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "89",
+            "question": "Welche Angaben sind auf dem Herstellerschild einer Zurrkette ersichtlich?"
+        },
+        {
+            "answers": [
+                "Zulässige Zugkraft.",
+                "Maximale Fahrgeschwindigkeit.",
+                "Ablaufdatum.",
+                "Maximales Gewicht der zu sichernden Ladung."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "90",
+            "question": "Welche Angaben sind auf dem Herstellerschild eines Zurrdrahtseiles ersichtlich?"
+        },
+        {
+            "answers": [
+                "Ja. ",
+                "Nein.",
+                "Nur Baumstämme unter 5 m Länge.",
+                "Nur bei land- und forstwirtschaftlichen Fahrzeugen."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "91",
+            "question": "Darf bei Rundholztransport das Holz quer zur Fahrtrichtung geladen werden?"
+        },
+        {
+            "answers": [
+                "25% des Eigengewichts",
+                "25% des höchst zulässigen Gesamtgewichts",
+                "25% des tatsächlichen Gesamtgewichtes.",
+                "25% des technisch zulässigen Gewichtes"
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "92",
+            "question": "25% welchen Gewichts müssen bei der Beladung auf der Antriebsachse mindestens lasten?"
+        },
+        {
+            "answers": [
+                "Damit es optisch gut aussieht.",
+                "Damit die höchstzulässigen Achslasten nicht überschritten werden.",
+                "Damit alle Zurrpunkte/Ösen verwendet werden können.",
+                "Um den Luftwiderstand zu senken."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "93",
+            "question": "Warum muss man bei der Beladung eines Fahrzeuges auf die richtige Lastverteilung achten?"
+        },
+        {
+            "answers": [
+                "54,5.",
+                "55,5.",
+                "45,5.",
+                "40."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "94",
+            "question": "Der Aufbau Ihres LKWs  hat folgende Innenmaße: Länge 6,5 m, Höhe 2,8 m, Breite 2,5 m. Berechnen Sie das Ladevolumen."
+        },
+        {
+            "answers": [
+                "Wenn der Reifendruck nicht stimmt.",
+                "Wenn der Straßenbelag glatt ist.",
+                "Wenn häufig gebremst wird.",
+                "Wenn das Fahrzeug voll ausgelastet ist."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "95",
+            "question": "Wann ist der Reifenverschleiß am geringsten?"
+        },
+        {
+            "answers": [
+                "Im Schwerpunkt der Ladung.",
+                "In der Auflagefläche der Ladung.",
+                "Am höchsten Punkt der Ladung.",
+                "Am niedrigsten Punkt der Ladung."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "96",
+            "question": "Wo greift die Massenkraft an der Ladung an?"
+        },
+        {
+            "answers": [
+                "Durch die Verwendung von Spannlatten.",
+                "Durch Diagonalzurren.",
+                "Durch Anstellen der Ladung an die Stirn- bzw. Seitenwand.",
+                "Durch Niederzurren"
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "97",
+            "question": "Wie kann Ladung kraftschlüssig gesichert werden?"
+        },
+        {
+            "answers": [
+                "Die maximale Vorspannkraft STF.",
+                "Die maximale Zurrkraft LC.",
+                "Die maximale Handkraft SHF.",
+                "Die maximale Dehnung des Gurtbandes."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "98",
+            "question": "Eine Ladung soll durch Niederzurren gesichert werden. Welche Angabe am Etikett des Zurrgurtes ist bei der Berechnung der Anzahl der erforderlichen Zurrgurte zu berücksichtigen?"
+        },
+        {
+            "answers": [
+                "Der Zurrwinkel Alpha",
+                "Die maximale Vorspannkraft STF.",
+                "Die maximale Handkraft SHF.",
+                "Die maximale Zurrkraft LC."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "99",
+            "question": "Eine Ladung soll durch Direktzurren gesichert werden. Welche Angabe am Etikett des Zurrgurtes ist bei der Berechnung der Anzahl der erforderlichen Zurrgurte zu berücksichtigen?"
+        },
+        {
+            "answers": [
+                "Je flacher der Zurrwinkel Alpha ist, um so geringer ist die wirksame Vorspannkraft.",
+                "Je flacher der Zurrwinkel Alpha ist, um so größer ist die wirksame Vorspannkraft.",
+                "Der Zurrwinkel Alpha hat keinen Einfluß auf die wirksame Vorspannkraft.",
+                "Je flacher der Zurrwinkel Alpha ist, um so geringer ist die wirksame maximale Handkraft SHF."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "100",
+            "question": "Welchen Einfluß hat der Zurrwinkel Alpha auf die wirksame Vorspannkraft beim Niederzurren?"
+        },
+        {
+            "answers": [
+                "Notrufsäule außer Betrieb.",
+                "Vorsicht, Behinderung auf der Fahrbahn.",
+                "Der Streckendienst soll sich melden.",
+                "Notrufsäule in Betrieb."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "101",
+            "question": "Was bedeutet auf Autobahnen eine blinkende Notrufsäule?"
+        },
+        {
+            "answers": [
+                "112.",
+                "123.",
+                "120.",
+                "0800 600 600."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "102",
+            "question": "Wie lautet die Telefonnummer des internationalen Euro-Notrufes?"
+        },
+        {
+            "answers": [
+                "25 m",
+                "200 m",
+                "\" 1 Sekunde - Abstand\"",
+                "50 m"
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "103",
+            "question": "Welchen Sicherheitsabstand haben Sie als Lenker eines Lkws auf Freilandstraßen einzuhalten, wenn Sie hinter einem Fahrzeug mit größeren Längsabmessungen (z.B. Lkw oder Omnibus) fahren?"
+        },
+        {
+            "answers": [
+                "Mit Staupolstern und Euro-Paletten",
+                "In Fahrtrichtung mit Rungen und zur Seite mit rutschhemmenden Unterlagen.",
+                "Durch Diagonalzurren mit Zurrseilen und Spannlatten.",
+                "Mit Rungen und durch Niederzurren mit Spanngurten, Zurrketten oder Zurrseilen."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "104",
+            "question": "Sie transportieren Rundholz. Wie bzw. womit würden Sie Ihre Ladung sichern?"
+        },
+        {
+            "answers": [
+                "Die maximale Vorspannkraft der Ratsche beträgt 300 daN.",
+                "Die maximale Kraft im Gurtband beträgt 300 daN.",
+                "Der Ratschenhebel darf maximal mit 300 kg betätigt werden.",
+                "Dass nur Ladegüter bis 300 kg Masse gesichert werden."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "105",
+            "question": "Was bedeutet die Angabe STF = 300 daN auf dem Etikett eines Zurrgurtes?"
+        },
+        {
+            "answers": [
+                "FMAX",
+                "LC.",
+                "SHF.",
+                "STF."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "106",
+            "question": "Wie wird die maximale Vorspannkraft der Ratsche auf dem Etikett eines Zurrgurtes gekennzeichnet?"
+        },
+        {
+            "answers": [
+                "Mindestens 2000 daN.",
+                "Mindestens 1000 daN.",
+                "Mindestens 800 daN.",
+                "Mindestens 500 daN."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "107",
+            "question": "Welche zulässige Zugkraft müssen die Zurrpunkte an einem LKW mit 18 t höchster zulässiger Gesamtmasse haben?"
+        },
+        {
+            "answers": [
+                "Mindestens 2000 daN.",
+                "Mindestens 1000 daN.",
+                "Mindestens 800 daN.",
+                "Mindestens 500 daN."
+            ],
+            "chapter": "1d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "108",
+            "question": "Welche zulässige Zugkraft müssen die Zurrpunkte an einem LKW mit 9 t höchster zulässiger Gesamtmasse haben?"
+        },
+        {
+            "answers": [
+                "Schüttgut, wie z.B. Sand oder Erdreich.",
+                "Stückgut in Kofferaufbauten.",
+                "Rundholz.",
+                "Betonteile."
+            ],
+            "chapter": "1d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "109",
+            "question": "Welche Ladungen sind mit einer Plane abzudecken?"
+        },
+        {
+            "answers": [
+                "Alle Busse dürfen gekennzeichnete Haltestellen während der Betriebszeit benützen",
+                "Omnibusse im Kraftfahrlinienverkehr müssen gekennzeichnete Haltestellen für das Ein- und Aussteigen der Fahrgäste benützen",
+                "Omnibusse im Gelegenheitsverkehr dürfen gekennzeichnete Haltestellen während der Betriebszeit benützen.",
+                "Omnibusse im Kraftfahrlinienverkehr dürfen gekennzeichnete Haltestellen nicht benützen"
+            ],
+            "chapter": "1e",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "110",
+            "question": "Wer darf gekennzeichnete Haltestellen für das Ein- und Aussteigen der Fahrgäste benützen?"
+        },
+        {
+            "answers": [
+                "Im Kraftfahrlinienverkehr muss der Fahrstreifen für Omnibusse benützt werden ",
+                "Im Gelegenheitsverkehr muss der Fahrstreifen für Omnibusse benützt werden.",
+                "Im Kraftfahrlinienverkehr darf der Fahrstreifen für Omnibusse nicht benützt werden. ",
+                "Alle Busse müssen den Fahrstreifen für Omnibusse benützen"
+            ],
+            "chapter": "1e",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "111",
+            "question": "Welche spezifischen öffentlichen Verkehrsflächen müssen sie als Lenker eines Omnibusses beachten?"
+        },
+        {
+            "answers": [
+                "Beim Ein- und Aussteigen ist nur die Warnblinkanlage einzuschalten.",
+                "Beim Ein- und Aussteigen sind nur die zusätzlich montierten Blinkleuchten einzuschalten.",
+                "Beim Ein- und Aussteigen müssen die Warnblinkanlage und die zusätzlich montierten Blinkleuchten eingeschaltet werden.",
+                "Wenn der Omnibus mit einer Schülertransporttafel ausgestattet ist, muss die Warnblinkanlage nicht eingeschaltet werden "
+            ],
+            "chapter": "1e",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "112",
+            "question": "Sie lenken einen als Schülertransport gekennzeichneten Omnibus. Was müssen sie beachten?"
+        },
+        {
+            "answers": [
+                "Beim Abbremsen",
+                "Beim starken Beschleunigen",
+                "Beim Kurvenfahren",
+                "Beim Fahren mit gleich bleibender Geschwindigkeit"
+            ],
+            "chapter": "1e",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "113",
+            "question": "Wann gibt es beim Autobus besonders starke Radlastverlagerungen nach vorne?"
+        },
+        {
+            "answers": [
+                "50 m",
+                "200 m",
+                "\" 1 Sekunde - Abstand\"",
+                "25 m"
+            ],
+            "chapter": "1e",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "114",
+            "question": "Welchen Sicherheitsabstand haben Sie als Lenker eines Omnibusses auf Freilandstraßen einzuhalten, wenn Sie hinter einem Fahrzeug mit größeren Längsabmessungen (z.B. Lkw oder Omnibus) fahren?"
+        },
+        {
+            "answers": [
+                "Notrufsäule außer Betrieb.",
+                "Vorsicht, Behinderung auf der Fahrbahn.",
+                "Der Streckendienst soll sich melden.",
+                "Notrufsäule in Betrieb."
+            ],
+            "chapter": "1e",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "115",
+            "question": "Was bedeutet auf Autobahnen eine blinkende Notrufsäule?"
+        },
+        {
+            "answers": [
+                "112.",
+                "123.",
+                "120.",
+                "0800 600 600."
+            ],
+            "chapter": "1e",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "116",
+            "question": "Wie lautet die Telefonnummer des internationalen Euro-Notrufes?"
+        },
+        {
+            "answers": [
+                "Sie ist sicherzustellen und unverzüglich bei der dafür vorgesehenen Stelle des Betriebes abzuliefern.",
+                "Sie ist ins Gepäcknetz zu legen, damit sie der Verlierer bei seiner nächsten Fahrt wiederfindet.",
+                "Sie ist zu begutachten, aber an der Fundstelle zu belassen.",
+                "Sie ist sicherzustellen und bei Gelegenheit dem Fundamt zu übergeben."
+            ],
+            "chapter": "1e",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "117",
+            "question": "Nach Beendigung einer Fahrt ist in Ihrem Omnibus eine Fundsache zurückgeblieben. Wie haben Sie diese zu behandeln?"
+        },
+        {
+            "answers": [
+                "Vorgeschriebene zulässige Höchstgeschwindigkeiten müssen überschritten werden.",
+                "Es kann vom festgelegten Fahrtweg abgewichen werden.",
+                "Der aufgetretene Zeitverlust muss in Kauf genommen werden.",
+                "Einzelne Haltestellen können ausgelassen werden."
+            ],
+            "chapter": "1e",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "118",
+            "question": "Bei einer Fahrt im Kraftfahrlinienverkehr sind Verspätungen aufgetreten. Wie hat sich der Lenker zu verhalten?"
+        },
+        {
+            "answers": [
+                "Abkommen von der Fahrbahn durch zu niedriger Geschwindigkeit",
+                "Abkommen von der Fahrbahn durch Auskuppeln",
+                "Abkommen von der Fahrbahn durch starkes Bremsen",
+                "Schleudergefahr durch Einkuppeln"
+            ],
+            "chapter": "1f",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "119",
+            "question": "Welche Gefahren können durch Fehlverhalten beim Durchfahren einer Kurve entstehen?"
+        },
+        {
+            "answers": [
+                "Gefahr des Auffahrens auf den Vordermann",
+                "Abkommen von der Fahrbahn durch Einkuppeln",
+                "Abkommen von der Fahrbahn durch zu hohe Geschwindigkeit",
+                "Schleudergefahr durch Auskuppeln"
+            ],
+            "chapter": "1f",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "120",
+            "question": "Welche Gefahren können durch Fehlverhalten beim Durchfahren einer Kurve entstehen?"
+        },
+        {
+            "answers": [
+                "Wenn der Reifendruck nicht stimmt.",
+                "Wenn der Straßenbelag glatt ist.",
+                "Wenn häufig gebremst wird.",
+                "Wenn das Fahrzeug voll ausgelastet ist."
+            ],
+            "chapter": "1f",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "121",
+            "question": "Unter welcher Bedingung ist der Reifenverschleiß am größten?"
+        },
+        {
+            "answers": [
+                "Der Fahrzeughersteller",
+                "Der Fahrzeuglenker.",
+                "Der Zulassungsbesitzer.",
+                "Ein Anordnungsbefugter."
+            ],
+            "chapter": "1f",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "122",
+            "question": "Wer ist für die richtige Sicherung der Ladung nicht verantwortlich?"
+        },
+        {
+            "answers": [
+                "Bremskräfte beim Bremsen.",
+                "Antriebskräfte beim Beschleunigen.",
+                "Seitenführungskräfte bei Kurvenfahrt.",
+                "Horizontalkräfte beim Bergauffahren."
+            ],
+            "chapter": "1f",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "123",
+            "question": "Welche physikalischen Kräfte wirken nicht auf das Fahrzeug?"
+        },
+        {
+            "answers": [
+                "Die Antriebskräfte.",
+                "Die Bremskräfte.",
+                "Die Seitenführungskräfte.",
+                "Die Negativkräfte."
+            ],
+            "chapter": "1f",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "124",
+            "question": "Welche physikalischen Kräfte werden nicht über die Reifen auf die Fahrbahn übertragen?"
+        },
+        {
+            "answers": [
+                "Die Gewichtskraft.",
+                "Die Fliehkraft.",
+                "Die Massenkraft.",
+                "Die Motorkraft."
+            ],
+            "chapter": "1f",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "125",
+            "question": "Welche physikalischen Kräfte wirken nicht auf die Ladung?"
+        },
+        {
+            "answers": [
+                "Motordrehzahl",
+                "Kraftstoffverbrauch",
+                "Detaillierte Geschwindigkeiten",
+                "Fahreraktivitäten sowie eine Liste der zuletzt benutzten Fahrzeuge"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "126",
+            "question": "Welche Daten werden auf der Fahrerkarte gespeichert?"
+        },
+        {
+            "answers": [
+                "Mindestens 28 Tage bei zirka 92 Ereignissen pro Tag ",
+                "15 Tage bei zirka 92 Ereignissen pro Tag",
+                "365 Tage bei zirka 92 Ereignissen pro Tag",
+                "Drei Monate bei zirka 92 Ereignissen pro Tag"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "127",
+            "question": "Wie lange sind die Daten auf dem Chip der Fahrerkarte gespeichert?"
+        },
+        {
+            "answers": [
+                "Ich muss Ersatzaufzeichnungen über alle Aktivitäten auf der Rückseite des Druckerpapiers eintragen.",
+                "Ich muss auf den Ersatzaufzeichnungen meinen Namen und die Fahrerkartennummer eintragen.",
+                "Ich muss die Ersatzaufzeichnungen unterschreiben.",
+                "Ich trage die Daten manuell auf der Fahrerkarte ein."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "128",
+            "question": "Sie bemerken eine Funktionsstörung Ihres digitalen Kontrollgerätes. Was dürfen Sie auf keinen Fall tun?"
+        },
+        {
+            "answers": [
+                "Vom laufenden Tag an weitere 28 Tage",
+                "Vom laufenden Tag an weitere 15 Tage",
+                "Vom laufenden Tag an eine Woche",
+                "Vom laufenden Tag an ein Jahr"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "129",
+            "question": "Sie bemerken eine Funktionsstörung Ihres digitalen Kontrollgerätes. Wie lange müssen Sie die Ersatzaufzeichnungen mitführen?"
+        },
+        {
+            "answers": [
+                "Da ich eine Fahrerkarte habe, muss ich keine Schaublätter mitführen.",
+                "Ich muss meine Aktivitäten der vorausgehenden 28 Tage entweder mittels Fahrerkarte oder Schaublatt nachweisen können.",
+                "Da ich auch mit Fahrzeugen mit analogen Kontrollgeräten fahre, benötige ich keine Fahrerkarte.",
+                "Ich habe die freie Wahl, entweder die Schaublätter oder die Tagesausdrucke mitzuführen"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "130",
+            "question": "Sie lenken abwechselnd Fahrzeuge mit analogem und digitalem Kontrollgerät. Was haben Sie zu beachten?"
+        },
+        {
+            "answers": [
+                "Täglich nach jeder Fahrt.",
+                "Spätestens nach drei Monaten",
+                "Spätestens nach 28 Tagen an denen ein Fahrzeug gelenkt wurde.",
+                "Spätestens nach 28 Tagen"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "131",
+            "question": "Wann müssen die Daten von der Fahrerkarte auf einem Computer gespeichert werden?"
+        },
+        {
+            "answers": [
+                "Mit gesteckter Fahrerkarte, dem Downloadkey und der Unternehmenskarte, direkt aus dem Kontrollgerät.",
+                "Ohne Chipkartenleser von der Fahrerkarte direkt auf den Computer.",
+                "Mit einem Downloadkey ohne Karten direkt aus dem Kontrollgerät.",
+                "Mit jedem Computer ohne Einstecken der Unternehmenskarte."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "132",
+            "question": "Welche Möglichkeiten gibt es, um die Daten von der Fahrerkarte auf einem Computer zu speichern?"
+        },
+        {
+            "answers": [
+                "Durch Eingabe des Unfallzeitpunkts in das Menü des Kontrollgerätes",
+                "Durch Download innerhalb der nächsten 24 Lenkstunden von der Fahrerkarte.",
+                "Durch handschriftlichem Vermerk auf einem Ausdruck.",
+                "Durch Download innerhalb der nächsten 24 Lenkstunden aus dem Massenspeicher."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "133",
+            "question": "In welcher Weise können Sie nach einem Verkehrsunfall das digitale Kontrollgerät zur Beweissicherung heranziehen?"
+        },
+        {
+            "answers": [
+                "24 Lenkstunden",
+                "28 Tage",
+                "3 Monate",
+                "1 Jahr"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "134",
+            "question": "Wie lange werden die detaillierten Geschwindigkeitsdaten im Massenspeicher des Kontrollgerätes gespeichert?"
+        },
+        {
+            "answers": [
+                "Das Datum des Ausdruckes.",
+                "Das Ablaufdatum der Fahrerkarte.",
+                "Die letzten fünf Ereignisse und Störungen.",
+                "Der Name und die Fahrerkartennummer des Beifahrers."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "135",
+            "question": "Welche der folgenden Informationen sind nicht auf einem 24h-Tagesausdruck von der Fahrerkarte enthalten?"
+        },
+        {
+            "answers": [
+                "24-Stunden-Tagesausdruck sowie Ausdruck von Ereignissen und Störungen",
+                "Drehfrequenzprofilausdruck",
+                "Geschwindigkeitsausdruck",
+                "Reifendruck"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "136",
+            "question": "Welche der folgenden Ausdruckarten können von der Fahrerkarte abgefragt werden?"
+        },
+        {
+            "answers": [
+                "UTC-Zeit plus 30 Minuten",
+                "Ortszeit",
+                "UTC und Ortszeit",
+                "UTC-Zeit"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "137",
+            "question": "Welche Zeit wird am 24h-Tagesaudruck angezeigt?"
+        },
+        {
+            "answers": [
+                "10:00 Uhr",
+                "11:30 Uhr",
+                "8:30 Uhr",
+                "10:30 Uhr"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "138",
+            "question": "Welche Ortszeit in Österreich entspricht an einem Dezembertag 9:30 Uhr UTC-Zeit?"
+        },
+        {
+            "answers": [
+                "5 Jahre",
+                "1 Jahr",
+                "10 Jahre",
+                "15 Jahre "
+            ],
+            "chapter": "2a",
+            "results": [
+                "RICHTIG ",
+                false,
+                false,
+                false
+            ],
+            "correct": "-1",
+            "id": "139",
+            "question": "Wie lange ist eine Fahrerkarte ab dem Ausstellungszeitpunkt gültig?"
+        },
+        {
+            "answers": [
+                "Ich muss am Beginn und am Ende der Fahrt einen 24h-Tagesausdruck aus dem Massenspeicher anfertigen sowie Name und Führerscheinnummer eintragen",
+                "Es genügt eine Information an den Dienstgeber.",
+                "Ich muss nur am Ende der Fahrt einen 24h-Tagesausdruck aus dem Massenspeicher anfertigen.",
+                "Ich muss nur am Beginn der Fahrt einen 24h-Tagesausdruck aus dem Massenspeicher anfertigen."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "140",
+            "question": "Sie haben Ihre Fahrerkarte verloren. Wie haben Sie sich zu verhalten?"
+        },
+        {
+            "answers": [
+                "15 Tage",
+                "28 Tage",
+                "3 Monate",
+                "4 Wochen"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "141",
+            "question": "Wie lange dürfen Sie ein Fahrzeug mit digitalem Kontrollgerät ohne Fahrerkarte lenken? "
+        },
+        {
+            "answers": [
+                "Weder im Kartenschacht 1 noch im Kartenschacht 2",
+                "Im Kartenschacht 1",
+                "Im Kartenschacht 1 oder 2",
+                "Im Kartenschacht 2"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "142",
+            "question": "Sie sind gerade im \"Mehrfahrerbetrieb\" als Beifahrer im Fahrzeug unterwegs. In welchem Kartenschacht muss sich Ihre Fahrerkarte befinden?"
+        },
+        {
+            "answers": [
+                "Bereitschaft",
+                "Sonstige Arbeit",
+                "Lenkzeit",
+                "Ruhezeit"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "143",
+            "question": "Welche Aktivität wird für Sie als Beifahrer im \"Mehrfahrerbetrieb\" am Kontrollgerät angezeigt?"
+        },
+        {
+            "answers": [
+                "13:00 Uhr",
+                "10:00 Uhr",
+                "12:00 Uhr",
+                "9:00 Uhr"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "144",
+            "question": "Die österreichische Ortszeit beträgt 11:00 Uhr. Welche UTC-Zeit entspricht an einem Sommertag der österreichischen Ortszeit?"
+        },
+        {
+            "answers": [
+                "Die Ortszeit",
+                "Die UTC-Zeit",
+                "Die Ortszeit und die UTC-Zeit",
+                "Die UTC-Zeit um mehr als 20 Minuten"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "145",
+            "question": "Welche Zeit müssen Sie im Kontrollgerät umstellen, wenn Sie in eine andere Zeitzone fahren?"
+        },
+        {
+            "answers": [
+                "Ich gebe meine Fahrerkarte in den Kartenschacht 2 und schalte das Kontrollgerät auf Ruhezeit.",
+                "Ich lasse meine Fahrerkarte im Kontrollgerät.",
+                "Ich lasse die Fahrerkarte im Kontrollgerät und schalte es auf Bereitschaft",
+                "Ich entnehme meine Fahrerkarte aus dem Kontrollgerät."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "146",
+            "question": "Wie verhalten Sie sich, wenn Sie Ihr Fahrzeug für mehrere Tage verlassen?"
+        },
+        {
+            "answers": [
+                "Ich trage die Aktivitäten seit der letzten Entnahme der Karte im Gerät nach.",
+                "Ich stelle die Ortszeit auf die aktuelle UTC-Zeit um.",
+                "Ich  drucke einen Ereignisausdruck aus und trage meine Ruhezeit handschriftlich darauf ein.",
+                "Ich darf keinen Nachtrag der Aktivitäten machen."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "147",
+            "question": "Wie verhalten Sie sich, wenn Sie nach einer täglichen Ruhezeit Ihre Fahrerkarte wieder in das Kontrollgerät stecken?"
+        },
+        {
+            "answers": [
+                "Ich verwende meine Fahrerkarte bestimmungsgemäß.",
+                "Mein Beifahrer muss zu Beginn und am Ende seiner Fahrten einen 24h-Tagesausdruck aus dem Massenspeicher anfertigen.",
+                "Während mein Beifahrer das Fahrzeug lenkt, steckt meine Fahrerkarte im Kartenschacht 1.",
+                "Während mein Beifahrer das Fahrzeug lenkt, steckt meine Fahrerkarte im Kartenschacht 2."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "148",
+            "question": "Sie sind im \"Mehrfahrerbetrieb\" als Lenker unterwegs und Ihr Beifahrer hat seine Fahrerkarte verloren. Welches Verhalten wäre strafbar?"
+        },
+        {
+            "answers": [
+                "Ich wechsle nur den Sitzplatz, die Fahrerkarten verbleiben im Gerät.",
+                "Die Fahrerkarte des Lenkers muss im Kartenschacht 1 stecken, jene des Beifahrers in Kartenschacht 2.",
+                "Die Fahrerkarte des Beifahrers wird nicht in das Gerät gesteckt.",
+                "Ich wechsle meinen Sitzplatz und entnehme meine Fahrerkarte aus dem Gerät."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "149",
+            "question": "Sie machen im Mehrfahrerbetrieb einen Fahrerwechsel. Wie verhalten sie sich in bezug auf das digitale Kontrollgerät?"
+        },
+        {
+            "answers": [
+                "Ich stelle das digitale Kontrollgerät auf die Menüeinstellung Fähre/Zug.",
+                "Ich entnehme meine Fahrerkarte und stelle meine Aktivität auf Lenkzeit.",
+                "Ich stecke meine Fahrerkarte in den Kartenschacht 2 und stelle die Aktivität auf Arbeitszeit.",
+                "Ich stelle das digitale Kontrollgerät auf die Menüeinstellung OUT."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "150",
+            "question": "Wie verhalten Sie sich im Kombinierten Verkehr, wenn Sie Teile der Fahrt auf einer Fähre oder auf einem Zug verbringen?"
+        },
+        {
+            "answers": [
+                "Durch das Losfahren wird die Menüfunktion Fähre/Zug automatisch beendet. Ich habe nichts zu tun.",
+                "Ich darf die Fahrerkarte erst wieder in das Gerät stecken, wenn ich auf einer öffentlichen Straße fahre.",
+                "Bevor ich losfahre muss ich die Menüfunktion Fähre/Zug manuell beenden.",
+                "Bevor ich losfahre muss der Schaffner seine Bahnkarte aus dem digitalen Kontrollgerät entnehmen."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "151",
+            "question": "Wie verhalten Sie sich im kombinierten Verkehr, wenn Sie die Fähre oder den Zug verlassen?"
+        },
+        {
+            "answers": [
+                "Den Namen des Fahrers.",
+                "Den genauen Abfahrtsort",
+                "Die Abfahrtszeit",
+                "Das Abfahrtsland"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "152",
+            "question": "Welche Informationen müssen Sie nach dem Stecken der Fahrerkarte in das Kontrollgerät eingeben?"
+        },
+        {
+            "answers": [
+                "Gleich nach dem Abstellen des Fahrzeuges stelle ich meine Aktivität auf das Piktogramm \"Bett\".",
+                "Ich lasse meine Fahrerkarte im Kontrollgerät und brauche nichts einzugeben, da das Gerät automatisch richtig auf Pause umstellt.",
+                "Ich entnehme die Fahrerkarte und brauche beim Losfahren nach der Pause nichts nachzutragen.",
+                "Ich stelle meine Aktivität auf das Piktogramm \"Arbeitsbereitschaft\" ein und entnehme die Fahrerkarte"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "153",
+            "question": "Was müssen Sie am digitalen Kontrollgerät beachten, wenn Sie nach 4 Stunden und 30 Minuten Lenkzeit eine Pause einlegen?"
+        },
+        {
+            "answers": [
+                "Nur den Vor- und Nachnamen",
+                "Den Zielort",
+                "Nur den Abfahrtsort",
+                "Den Abfahrtsort, Vorname und Nachname, Km-Stand, Datum, Kennzeichen"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "154",
+            "question": "Welche Angaben müssen Sie auf der Vorderseite eines Schaublattes vor Beginn der Fahrt jedenfalls eintragen?"
+        },
+        {
+            "answers": [
+                "15 Tage",
+                "28 Tage",
+                "7 Tage",
+                "24 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "155",
+            "question": "Wie lange dürfen Sie das Schaublatt im Kontrollgerät eingelegt lassen?"
+        },
+        {
+            "answers": [
+                "28 Tage",
+                "7 Tage",
+                "15 Tage ",
+                "31 Tage"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "156",
+            "question": "Wie lange haben Sie Ihre Schaublätter im Fahrzeug mitzuführen?"
+        },
+        {
+            "answers": [
+                "Die Fahrgeschwindigkeit",
+                "Der  Kilometerstand am Ende der Fahrt",
+                "Den Ankunftsort",
+                "Die Seriennummer des Kontrollgerätes"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "157",
+            "question": "Welche Informationen werden vom analogen Kontrollgerät auf einem Schaublatt automatisch aufgezeichnet?"
+        },
+        {
+            "answers": [
+                "Es ist grundsätzlich nicht erlaubt, dasselbe Schaublatt in verschiedenen Fahrzeugen zu verwenden.",
+                "Wenn Geschwindigkeitsbereich, e-Nummer und Typennummer des Schaublattes mit jenen der Kontrollgeräte übereinstimmen.",
+                "Wenn alle Fahrzeuge auf denselben Zulassungsbesitzer zugelassen sind.",
+                "Wenn alle Fahrzeuge vom selben Fahrzeughersteller hergestellt wurden."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "158",
+            "question": "Unter welchen Voraussetzungen dürfen Sie ein und dasselbe Schaublatt in verschiedenen Kontrollgeräten verwenden?"
+        },
+        {
+            "answers": [
+                "Lenkpausen und sonstige Arbeitszeiten",
+                "Ladezeiten",
+                "Lenkzeiten",
+                "Einsatzzeiten"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "159",
+            "question": "Ihr analoges Kontrollgerät funktioniert einwandfrei. Welche Aktivitäten dürfen Sie am analogen Kontrollgerät händisch eintragen?"
+        },
+        {
+            "answers": [
+                "Den eigenen Vornamen und Nachnamen",
+                "Name des Dienstgebers",
+                "Die eigene Telefonnummer",
+                "Den Wohnort"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "160",
+            "question": "Welche Angaben muss der Lenker auf dem Schaublatt vermerken?"
+        },
+        {
+            "answers": [
+                "Den laufenden Tag und die vorausgehenden 28 Kalendertage.",
+                "Den laufenden Tag und die vorausgehenden 15 Kalendertage.",
+                "Die laufende Woche und den letzten Lenktag der Vorwoche.",
+                "Den laufenden Tag und die vorausgehenden 28 Arbeitstage."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "161",
+            "question": "Für welchen Zeitraum müssen die Schaublätter bei ausschließlicher Verwendung eines Fahrzeuges mit analogem Kontrollgerät mitgeführt werden?"
+        },
+        {
+            "answers": [
+                "Den Chef anrufen und weiterfahren",
+                "Handschriftliche Aufzeichnungen führen und weiterfahren",
+                "Den Defekt ignorieren und weiterfahren",
+                "Stehen bleiben und auf den Mechaniker warten."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "162",
+            "question": "Was muss der Fahrer machen, falls der digitale Tachograph oder das analoge Kontrollgerät defekt ist?"
+        },
+        {
+            "answers": [
+                "28 Tage",
+                "7 Tage",
+                "10 Tage",
+                " 15 Tage"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "163",
+            "question": "Sie haben Ihre Fahrerkarte verloren bzw. Sie ist defekt. Wie viele Kalendertage dürfen Sie ohne diese weiterfahren?"
+        },
+        {
+            "answers": [
+                "Der Fahrer",
+                "Der Dienstgeber",
+                "Die Polizei",
+                "Der Fahrzeughersteller"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "164",
+            "question": "Wer ist für die Einschulung eines Fahrers auf die Funktionsweise des digitalen Kontrollgerätes verantwortlich?"
+        },
+        {
+            "answers": [
+                "Der Arbeitnehmer",
+                "Der Arbeitgeber",
+                "Die Autofahrerclubs",
+                "Die ASFINAG"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "165",
+            "question": "Wer hat die Kosten für die Fahrerkarte zu tragen?"
+        },
+        {
+            "answers": [
+                "Mindestens 24 Monate",
+                "Mindestens 12 Monate",
+                "Mindestens 28 Tage",
+                "Mindestens 6 Monate"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "166",
+            "question": "Wie lange hat der Arbeitgeber sämtliche Lenkeraufzeichnungen aufzubewahren?"
+        },
+        {
+            "answers": [
+                "In jedem beliebigen EU-Mitgliedstaat.",
+                "In dem EU-Mitgliedsstaat, in dem er seinen Wohnsitz hat.",
+                "In dem EU-Mitgliedstaat, in dem er geboren wurde.",
+                "In dem EU-Mitgliedsstaat, in dem der Firmensitz liegt."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "167",
+            "question": "In welchem Staat muss ein EU-Bürger seine Fahrerkarte beantragen?"
+        },
+        {
+            "answers": [
+                "Für jeden Arbeitgeber eine.",
+                "Maximal fünf Fahrerkarten.",
+                "Maximal eine Fahrerkarte.",
+                "Pro EU-Staat eine Fahrerkarte."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "168",
+            "question": "Sie arbeiten für verschiedene Arbeitgeber. Wie viele gültige Fahrerkarten dürfen Sie besitzen?"
+        },
+        {
+            "answers": [
+                "Beim Verkehrsministerium",
+                "Beim Dienstgeber",
+                "Bei der Bezirkshauptmannschaft",
+                "Beim ARBÖ oder ÖAMTC"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "169",
+            "question": "Bei welcher österreichischen Stelle ist der Antrag für die Fahrerkarte zu stellen?"
+        },
+        {
+            "answers": [
+                "Er muss nur am Ende der Fahrt einen Ausdruck aus dem Massenspeicher machen.",
+                "Er muss zu Beginn und am Ende der Fahrt einen Ausdruck aus dem Massenspeicher machen, fehlenden Daten ergänzen und  unterschreiben.",
+                "Er muss handschriftliche Aufzeichnungen auf einem Schaublatt führen.",
+                "Er braucht gar nichts tun, weil im Kontrollgerät ohnedies alles aufgezeichnet wird."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "170",
+            "question": "Was muss der Fahrer machen, wenn die Fahrerkarte beschädigt worden oder verloren gegangen ist?"
+        },
+        {
+            "answers": [
+                "Sie ist ungültig und kann daher sofort vernichtet werden.",
+                "Mindestens 28 Tage nach Ablauf der Gültigkeit.",
+                "Die laufende Woche und dann weitere 15 Kalendertage.",
+                "Die laufende Woche und dann weitere 7 Kalendertage."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "171",
+            "question": "Wie lange muss ein Lenker eine durch Zeitablauf \r\nungültig gewordene Fahrerkarte mitführen?"
+        },
+        {
+            "answers": [
+                "Ja, aber nur wenn das Kontrollgerät auf manuellen Betrieb umgeschaltet wird",
+                "Nein, da der Batterie-Hauptschalter sämtliche Stromverbraucher außer Betrieb setzt.",
+                "Ja, die Funktion des Kontrollgerätes bleibt aufrecht.",
+                "Ja, aber nur eine Stunde lang im Notbetrieb"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "172",
+            "question": "Funktioniert das EG-Kontrollgerät bei einer Stromunterbrechung durch den Batterie-Hauptschalter weiter?"
+        },
+        {
+            "answers": [
+                "Nein, weil Geschwindigkeitsübertretungen am Schaublatt nicht aufgezeichnet werden.",
+                "Ja, innerhalb des Zeitraumes auf dem Schaublatt",
+                "Ja, im Zeitraum der letzten 2 Stunden",
+                "Ja, im Zeitraum der mitgeführten Schaublätter"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "173",
+            "question": "Kann eine Geschwindigkeitsüberschreitung von einem Straßenaufsichtsorgan an Hand des Schaublattes festgestellt und bestraft werden?"
+        },
+        {
+            "answers": [
+                "Nach 9 Stunden",
+                "Nach 4,5 Stunden",
+                "Nach 2 Stunden",
+                "Nach 3 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "174",
+            "question": "Nach welcher durchgehenden Lenkzeit müssen Sie die Fahrt spätestens unterbrechen?"
+        },
+        {
+            "answers": [
+                "Wenn dem Lenker eine Schlafkabine zur Verfügung steht und das Fahrzeug still steht.",
+                "Nur im \"Mehrfahrer-Betrieb\".",
+                "Wenn der Fahrer nachweislich kein Hotelzimmer bekommen konnte",
+                "Das Fahrzeug muss mit Klimaanlage und Standheizung ausgestattet sein"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "175",
+            "question": "Unter welchen Voraussetzungen darf die Ruhezeit im Fahrzeug gehalten werden?"
+        },
+        {
+            "answers": [
+                "Vor dem Beginn einer Ladetätigkeit",
+                "Bei jeder Lenkpause",
+                "Während der Mittagspause.",
+                "Bei einer Verkehrskontrolle bzw. beim Lenkerwechsel"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "176",
+            "question": "Wann darf das analoge EG-Kontrollgerät während der Einsatzzeit des LKW/BUS geöffnet werden?"
+        },
+        {
+            "answers": [
+                "Handschriftliche Aufzeichnungen über Zeit und Art der Tätigkeiten führen.",
+                "Es darf keinesfalls weitergefahren werden.",
+                "Das Fahrzeug muss abgeschleppt werden.",
+                "Das EG-Kontrollgerät ist erst beim nächsten Service zu reparieren."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "177",
+            "question": "Wie verhalten Sie sich, wenn während einer Fahrt das EG-Kontrollgerät defekt wird?"
+        },
+        {
+            "answers": [
+                "Wenn der Fahrer seine Lenkzeit kontrollieren möchte",
+                "Bei jeder Lenkpause",
+                "Beim Lenkerwechsel",
+                "Vor dem Beginn einer Ladetätigkeit"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "178",
+            "question": "Wann darf das analoge EG-Kontrollgerät während der Einsatzzeit des LKW/Bus geöffnet werden?"
+        },
+        {
+            "answers": [
+                "Der  Fahrzeughersteller",
+                "Der Dienstgeber",
+                "Der Auftraggeber",
+                "Der Fahrer"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "179",
+            "question": "Wer ist für die korrekte Bedienung des digitalen Kontrollgerätes verantwortlich?"
+        },
+        {
+            "answers": [
+                "Tägliche Ruhezeiten",
+                "Fahrzeugkontrollen",
+                "Lenkzeit",
+                "Einsatzzeit"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "180",
+            "question": "Ihr analoges Kontrollgerät funktioniert\r\neinwandfrei. Welche Aktivitäten dürfen\r\nSie händisch  nachtragen?"
+        },
+        {
+            "answers": [
+                "Lenkzeiten",
+                "Arbeitsbereitschaft",
+                "gesetzliche Ruhezeiten",
+                "Ladetätigkeiten"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "181",
+            "question": "Was zählt nicht zur Arbeitszeit?"
+        },
+        {
+            "answers": [
+                "9,5 Stunden",
+                "9 Stunden",
+                "11 Stunden",
+                "13 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "182",
+            "question": "Wie lange darf die tägliche maximale Lenkzeit betragen?"
+        },
+        {
+            "answers": [
+                "1 mal",
+                "2 mal",
+                "3 mal",
+                "4 mal"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "183",
+            "question": "Wie oft darf die tägliche Lenkzeit während einer Woche auf 10 Stunden ausgedehnt werden?"
+        },
+        {
+            "answers": [
+                "10 Stunden",
+                "11 Stunden",
+                "12 Stunden",
+                "13 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "184",
+            "question": "Auf wie viele Stunden darf die tägliche Lenkzeit zweimal pro Woche ausgedehnt werden?"
+        },
+        {
+            "answers": [
+                "38 Stunden",
+                "40 Stunden",
+                "56 Stunden",
+                "60 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "185",
+            "question": "Wie viele Stunden darf die wöchentliche Lenkzeit maximal betragen?"
+        },
+        {
+            "answers": [
+                "80 Stunden",
+                "90 Stunden",
+                "100 Stunden",
+                "120 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "186",
+            "question": "Wie viele Stunden darf die Gesamtlenkzeit in zwei aufeinander folgenden Wochen längstens betragen?"
+        },
+        {
+            "answers": [
+                "Eine Fahrtunterbrechung aufgrund eines Staus.",
+                "Schneeketten montieren",
+                "Eine Fahrtunterbrechung aufgrund einer Ladetätigkeit.",
+                "Eine Fahrtunterbrechung, in der keine anderen Arbeiten ausgeführt werden."
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "187",
+            "question": "Was fällt unter den Begriff Lenkpause?"
+        },
+        {
+            "answers": [
+                "3 Stunden",
+                "4,5 Stunden",
+                "5 Stunden",
+                "5,5 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "188",
+            "question": "Nach wie vielen Stunden Lenkzeit muss spätestens eine Lenkpause eingelegt werden?"
+        },
+        {
+            "answers": [
+                "15 Minuten",
+                "30 Minuten",
+                "45 Minuten",
+                "60 Minuten"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "189",
+            "question": "Wie lange muss eine Lenkpause nach einer ununterbrochenen Lenkzeit von 4,5 Stunden mindestens dauern?"
+        },
+        {
+            "answers": [
+                "15 und 30 Minuten",
+                "15 und 15 und 15 Minuten",
+                "30 und 15 Minuten",
+                "jede beliebige Teilung"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "190",
+            "question": "Wie darf eine 45-minütige Lenkpause geteilt werden?"
+        },
+        {
+            "answers": [
+                "Eine",
+                "Zwei",
+                "Drei",
+                "Vier"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "191",
+            "question": "Wie viele Lenkpausen müssen bei verlängerter Tageslenkzeit (maximal 10 Stunden) mindestens gehalten werden?"
+        },
+        {
+            "answers": [
+                "Zeit einer Ladetätigkeit",
+                "Zeit zwischen einer Lenkpause und einer Lenkzeit",
+                "Zeit zwischen zwei Lenkzeiten",
+                "Zeit zwischen zwei Einsatzzeiten"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "192",
+            "question": "Was bedeutet der Begriff Ruhezeit?"
+        },
+        {
+            "answers": [
+                "8 Stunden innerhalb von 30 Stunden bei Zweifahrerbesetzung",
+                "8 Stunden innerhalb von 24 Stunden bei Einfahrerbesetzung",
+                "11 Stunden innerhalb von 24 Stunden bei Einfahrerbesetzung",
+                "12 Stunden innerhalb von 48 Stunden bei Zweifahrerbesetzung"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "193",
+            "question": "Wie lange muss die regelmäßige tägliche Ruhezeit mindestens dauern?"
+        },
+        {
+            "answers": [
+                "auf 3 und 9 Stunden",
+                "auf 8 und 4 Stunden",
+                "auf 7 und 5 Stunden",
+                "auf 6 und 6 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "194",
+            "question": "Wie darf die tägliche Ruhezeit im Gelegenheitsverkehr geteilt werden?"
+        },
+        {
+            "answers": [
+                "8 Stunden",
+                "9 Stunden",
+                "10 Stunden",
+                "11 Stunden"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "195",
+            "question": "Wie lange muss die reduzierte tägliche Ruhezeit mindestens dauern?"
+        },
+        {
+            "answers": [
+                "ein mal",
+                "zwei mal",
+                "drei mal",
+                "vier mal"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "196",
+            "question": "Wie oft pro Woche darf die tägliche Ruhezeit auf 9 Stunden verkürzt werden?"
+        },
+        {
+            "answers": [
+                "Montag 00:00 bis Sonntag 24:00",
+                "Samstag 0:00 bis Freitag 24:00",
+                "Freitag 15:00 bis Freitag 15:00",
+                "Samstag 15:00 bis Samstag 15:00"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "197",
+            "question": "Welchen Zeitraum umfasst der Begriff Kalenderwoche?"
+        },
+        {
+            "answers": [
+                "Wenn ich meine Fahrerkarte verloren habe.",
+                "Wenn ich meine Fahrerkarte gerade an einen Kollegen verborgt habe.",
+                "Wenn ich meine Fahrerkarte zwar beantragt, sie aber noch nicht erhalten habe.",
+                "Wenn mein Fahrzeug unbeladen ist."
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "210",
+            "question": "Unter welcher Voraussetzung dürfen Sie mit Fahrzeugen mit digitalem Kontrollgerät ohne Fahrerkarte fahren?"
+        },
+        {
+            "answers": [
+                "Fahreraktivitäten sowie eine Liste der zuletzt benutzten Fahrzeuge",
+                "Störungen und Ereignisse",
+                "Geschwindigkeit",
+                "Kraftstoffverbrauch"
+            ],
+            "chapter": "2a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "211",
+            "question": "Welche Daten werden im Massenspeicher des digitalen Kontrollgerätes nicht aufgezeichnet?"
+        },
+        {
+            "answers": [
+                "24 Lenkstunden",
+                "365 Tage",
+                "24 Stunden",
+                "28 Tage"
+            ],
+            "chapter": "2a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "212",
+            "question": "Wie lange werden detaillierte Geschwindigkeitsdaten im Massenspeicher des Kontrollgerätes gespeichert?"
+        },
+        {
+            "answers": [
+                "Schriftliche Weisung.",
+                "Beförderungsdokument",
+                "Rechnung.",
+                "ADR Schein für Lenker."
+            ],
+            "chapter": "2b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "198",
+            "question": "Welche Papiere benötigen Sie nicht bei einem Gefahrguttransport?"
+        },
+        {
+            "answers": [
+                "Zwischen Motorwagen und Anhänger, um dem Fahrer den Abstand zu zeigen.",
+                "Seitlich hinten links im Sichtbereich des Fahrers.",
+                "An der Zuggabel, um sie beim Heranfahren in die Kupplung einzuführen.",
+                "Seitlich hinten links am Ende des Anhängers."
+            ],
+            "chapter": "2b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "199",
+            "question": "Wo befindet sich der Einweiser beim Ankuppeln eines Anhängers?"
+        },
+        {
+            "answers": [
+                "Ich erstatte bei der Polizei Anzeige und fahre nach Rücksprache mit meinem Unternehmen eine Werkstatt an.",
+                "Tagsüber brauche ich die Beleuchtung nicht. Das Unternehmen soll mir vorgeben, was ich zu tun habe.",
+                "Da eine Anzeige bei der Polizei in der Regel keinen Erfolg hat, fahre ich ohne Rücksprache die nächstgelegene Werkstatt an.",
+                "Ich führe meinen Fahrauftrag aus und kümmere mich dann darum."
+            ],
+            "chapter": "2b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "200",
+            "question": "Sie stellen fest, dass an Ihrem Fahrzeug über Nacht die Front- und Rückscheinwerfer entwendet worden sind. Wie verhalten Sie sich richtig, bevor Sie die Fahrt antreten?"
+        },
+        {
+            "answers": [
+                "Alle Kinder sowie deren Begleitpersonen.",
+                "Nur alle Personen, die über 150 cm groß sind.",
+                "Ausschließlich Personen in der ersten Sitzreihe.",
+                "Nur die Kinder"
+            ],
+            "chapter": "2c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "201",
+            "question": "Sie befördern im Gelegenheitsverkehr eine Gruppe von 7-jährigen Kindern samt deren Begleitpersonen in einen Wintersportort. Welche Fahrgäste müssen dabei angeschnallt sein?"
+        },
+        {
+            "answers": [
+                "Nein, nur LKW benötigen ein EG-Kontrollgerät",
+                "Nein, Omnibusse im Kraftfahrlinienverkehr, wenn die Linienstrecke mehr als 50 km beträgt",
+                "Ja, jeder Omnibus im Kraftfahrlinienverkehr.",
+                "Ja, Omnibusse im Reiseverkehr"
+            ],
+            "chapter": "2c",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "202",
+            "question": "Benötigt ein Omnibus ein EG-Kontrollgerät?"
+        },
+        {
+            "answers": [
+                "Ja, entweder durch den Lenker oder einen anderen Hinweis (z. B. Piktogramme an den Sitzen)",
+                "Ja, als Lenker eines Omnibusses muss ich jeden Fahrgast sogar zusätzlich anschnallen. ",
+                "Ja aber nur Fahrgäste unter 14 Jahren.",
+                "Ja, aber nur für den Fahrgast am Reiseleitersitz"
+            ],
+            "chapter": "2c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "203",
+            "question": "Ihr Omnibus ist mit Sicherheitsgurten für die Fahrgäste ausgerüstet. Müssen die Fahrgäste auf die Anschnallpflicht hingewiesen werden?"
+        },
+        {
+            "answers": [
+                "Ich muss nur die Alarmblinkanlage nicht einschalten",
+                "Ich muss die Alarmblinkanlage und zusätzlich die Warnleuchten, welche im Heckbereich des Busses montiert sind, einschalten",
+                "Ich muss Warnzeichen mit der Hupe abgeben",
+                "Ich muss den rechten Blinker einschalten"
+            ],
+            "chapter": "2c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "204",
+            "question": "Was haben Sie zu beachten, wenn Sie an der Haltestelle Kinder aus dem Schulbus aussteigen lassen?"
+        },
+        {
+            "answers": [
+                "Taxilenkerausweis",
+                "Führerschein D, allein",
+                "Führerschein B",
+                "Schülertransportausweis "
+            ],
+            "chapter": "2c",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "205",
+            "question": "Welches der nachfolgenden Dokumente berechtigt zum Lenken von Schülertransporten mit Omnibussen im Gelegenheitsverkehr?"
+        },
+        {
+            "answers": [
+                "Führerschein B",
+                "Führerschein D, mit Eintragung \"Berufskraftfahrer\" oder \"Gewerbeprüfung Personenbeförderung\"  ",
+                "Taxilenkerausweis",
+                "Führerschein D allein"
+            ],
+            "chapter": "2c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "206",
+            "question": "Welches der nachfolgenden Dokumente berechtigt zum Lenken von Schülertransporten mit Omnibussen im Gelegenheitsverkehr?"
+        },
+        {
+            "answers": [
+                "Durch Hinweis des Lenkers",
+                "Nur durch ein Hinweisschild an der Eingangstüre",
+                "Nur durch ein Hinweisschild vorne im Bus ",
+                "Nur durch ein Hinweisschild am Fenster."
+            ],
+            "chapter": "2c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "207",
+            "question": "Wie kann die Verpflichtung, Fahrgäste im Gelegenheitsverkehr mit Omnibussen auf die Verwendungspflicht des Sicherheitsgurts hinzuweisen, ausreichend erfüllt werden?"
+        },
+        {
+            "answers": [
+                "Eine Schneeschaufel",
+                "Genormtes Verbandszeug",
+                "Ein Reservekanister",
+                "Navigationsgerät"
+            ],
+            "chapter": "2c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "208",
+            "question": "Welche Sicherheitsausstattungen müssen in Omnibussen mitgeführt werden?"
+        },
+        {
+            "answers": [
+                "Seitlich am Fahrzeug je eine gelbrote, quadratische und rückstrahlende Tafel mit schwarzem Rand und bildliche Darstellung von zwei Kindern.",
+                "Vorne und hinten am Fahrzeug je eine gelbrote, quadratische und rückstrahlende Tafel mit schwarzem Rand und bildliche Darstellung von zwei Kindern.",
+                "Vorne und hinten am Fahrzeug je eine gelbrote rückstrahlende Tafel  mit schwarzer Aufschrift \"SCHÜLERTRANSPORT\".",
+                "Seitlich am Fahrzeug je eine gelbrote rückstrahlende Tafel  mit schwarzer Aufschrift \"SCHÜLERTRANSPORT\"."
+            ],
+            "chapter": "2c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "209",
+            "question": "Wie muss ein Schülertransport gekennzeichnet sein?"
+        },
+        {
+            "answers": [
+                "Ich lasse mich von einer geeigneten Person einweisen.",
+                "Ich fahre immer nur ein kurzes Stück und bleibe dann stehen ",
+                "Ich schalte die Warnblinkanlage ein und fahre langsam rückwärts.",
+                "Ich fahre heraus, bis ich Sicht auf den Verkehr habe"
+            ],
+            "chapter": "3a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "213",
+            "question": "Sie wollen aus einem Parkplatz rückwärts ausfahren und haben keine Sicht auf den Straßenverkehr. Wie verhalten Sie sich?"
+        },
+        {
+            "answers": [
+                "Ich telefoniere kurz, weil ein\r\nHandytelefonat nicht mehr\r\nablenkt als ein Gespräch mit\r\neinem Beifahrer.",
+                "Ich schreibe während der Fahrt\r\nsofort ein Antwort-SMS.",
+                "Ich lasse das Handy läuten\r\nund rufe nach Beendigung der\r\nFahrt zurück.",
+                "Ich bleibe sofort  stehen, ohne auf den Verkehr zu achten und nehme das Gespräch entgegen"
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "214",
+            "question": "Während der Fahrt läutet Ihr Handy und\r\nsie haben ihre Freisprecheinrichtung nicht mit, wie verhalten Sie sich?"
+        },
+        {
+            "answers": [
+                "Es ist kein bestimmtes Schuhwerk gefordert",
+                "Fußumschließendes Schuhwerk (z.B. Sandalen mit\r\n Fersenriemen, Halbschuhe)",
+                "Flip-Flops",
+                "Pantoffeln"
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "215",
+            "question": "Welches Schuhwerk darf der Lenker beim Führen eines Fahrzeugs benutzen?"
+        },
+        {
+            "answers": [
+                "Doppelte Geschwindigkeit - vierfache Fliehkraft",
+                "Doppelte Geschwindigkeit - doppelte Fliehkraft",
+                "Doppelte Geschwindigkeit - dreifache Fliehkraft",
+                "Doppelte Geschwindigkeit - fünffache Fliehkraft"
+            ],
+            "chapter": "3a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "216",
+            "question": "Wie wirkt sich die Kurvengeschwindigkeit auf die Fliehkraft aus?"
+        },
+        {
+            "answers": [
+                "Zwischen 12 bis 14 Uhr",
+                "Zwischen 2 bis 4 Uhr",
+                "Zwischen 8 bis 10 Uhr",
+                "Zwischen 17 bis 19 Uhr"
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "217",
+            "question": "Die Tageszeit beeinflusst die Leistungsfähigkeit eines Menschen. Wann ist die Leistungsfähigkeit normalerweise am geringsten?"
+        },
+        {
+            "answers": [
+                "Durch günstige Ernährung (fettarm, keine Süßigkeiten) und ausreichende Trinkmenge\r\n",
+                "Durch möglichst langes Fahren ohne Pausen ",
+                "Durch hohes Schlafdefizit",
+                "Sehr hohe warme Umgebungstemperatur im Fahrzeug"
+            ],
+            "chapter": "3a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "218",
+            "question": "Wie kann vorzeitiger Ermüdung und herabgesetzter Aufmerksamkeit vorgebeugt werden?"
+        },
+        {
+            "answers": [
+                "ca. 0,4 bis 0,6 Sekunden",
+                "ca. 1,0 bis 1,2  Sekunden",
+                "ca. 1,6 bis 1,8 Sekunden",
+                "ca. 2,0 bis 2,2 Sekunden"
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "219",
+            "question": "Wie groß ist die Reaktionszeit im Normalfall?"
+        },
+        {
+            "answers": [
+                "Bei Auffahrunfällen",
+                "Beim Kippen und Überschlagen des Fahrzeuges.",
+                "Bei Unfällen mit Gegenverkehr",
+                "Bei Unfällen durch technische Defekte"
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "220",
+            "question": "Bei welcher Unfallart kommen etwa 2/3 aller getöteten Omnibusinsassen ums Leben?"
+        },
+        {
+            "answers": [
+                "Ja, unbedingt.",
+                "Nein, ich gehöre zu einer anderen Firma.",
+                "Nur wenn meine Arbeit nicht länger dauert.",
+                "Nur wenn mich die Arbeiter der Firma beobachten."
+            ],
+            "chapter": "3a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "221",
+            "question": "Müssen Sie die Sicherheitsvorschriften bei Be-/Entladestellen unbedingt einhalten?"
+        },
+        {
+            "answers": [
+                "Mit mindestens  7 km/h.",
+                "Mit mindestens  5 km/h.",
+                "Mit mindestens  4 km/h.",
+                "Mit mindestens 10 km/h."
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "222",
+            "question": "Sie fahren mit einem 12 m langen Omnibus. Mit welcher Mindestgeschwindigkeit müssen Sie eine Eisenbahnkreuzung überqueren?"
+        },
+        {
+            "answers": [
+                "Die Kippgefahr in Kurven ist viel höher.",
+                "Der Bremsweg verlängert sich.",
+                "Das Fahrverhalten ist gleich.",
+                "Die Beschleunigung ist schlechter."
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "223",
+            "question": "Vergleichen Sie Last- und Leerfahrt. Welche Aussage stimmt nicht?"
+        },
+        {
+            "answers": [
+                "Gar nicht, mein LKW/BUS ist so schwer, da verändert sich nichts.",
+                "Gar nicht, ich habe am LKW/BUS so viele technische Hilfsmittel (ABS,..).",
+                "Deutlich langsamer, vorausschauender Fahren.",
+                "Ich fahre nur in Kurven etwas langsamer."
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "224",
+            "question": "Wie ändern Sie ihr Fahrverhalten bei Nässe oder Glatteis?"
+        },
+        {
+            "answers": [
+                "Ich überhole ihn, stelle meinen Bus ab und stelle den Verkehrsteilnehmer zur Rede.",
+                "Ich fahre möglichst knapp auf, mit der Absicht, dass der andere Platz macht.",
+                "Ich hupe in regelmäßigen Abständen, um zu signalisieren, dass er Platz machen soll.",
+                "Ich fahre dem Verkehrsteilnehmer geduldig nach."
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "225",
+            "question": "Wie verhalten Sie sich richtig, wenn ein anderer Verkehrsteilnehmer auffallend langsam über eine weite Strecke vor Ihrem Fahrzeug fährt?"
+        },
+        {
+            "answers": [
+                "Absichern der Unfallstelle und Alarmieren der Einsatzkräfte.",
+                "Ich verständige als Erstes die Versicherung.",
+                "Ich steige aus und begutachte den Schaden am Fahrzeug.",
+                "Ich kläre als Erstes die Verschuldensfrage."
+            ],
+            "chapter": "3a",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "226",
+            "question": "Welche Maßnahmen sind bei einem Unfall mit Personenschaden als erstes zu setzen?"
+        },
+        {
+            "answers": [
+                "Ich biete meinem Unfallgegner Geld an, damit er die Schuld auf sich nimmt.",
+                "Ich verlasse so rasch als möglich den Unfallort und melde mich bei meinem Dienstgeber.",
+                "Ich weise meinem Unfallgegner unverzüglich die Schuld zu.",
+                "Austausch der Namen und Anschriften der Unfallbeteiligten"
+            ],
+            "chapter": "3a",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "227",
+            "question": "Welche Maßnahmen sind bei einem Unfall ausschließlich mit Sachschaden zu setzen?"
+        },
+        {
+            "answers": [
+                "Ja, es ist in jedem Fall mit Strafverfahren vor den Behörden bzw. Gerichten zu rechnen.",
+                "Nein, wenn der Fahrer glaubhaft behauptet, nichts gewusst zu haben.",
+                "Es wird immer nur der Lenker zur Verantwortung gezogen",
+                "Es wird immer nur das Unternehmen zur Verantwortung gezogen."
+            ],
+            "chapter": "3b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "228",
+            "question": "Werden LKW/Bus-Lenker und Unternehmer zur Verantwortung gezogen, wenn bei der Einreise nach Großbritannien in ihrem Fahrzeug Einwanderer entdeckt werden?"
+        },
+        {
+            "answers": [
+                "Eine behördliche Kontrolle des Laderaums mit Hilfe von Atemluft-Messgeräten.",
+                "Es soll immer ein Spürhund angefordert werden.",
+                "Bei der Ausreise werden derartige Kontrollen generell nicht durchgeführt.",
+                "Ein derartiger Aufwand lohnt sich nicht."
+            ],
+            "chapter": "3b",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "229",
+            "question": "Was sollte bei der Ausreisekontrolle vom Festland (z. B. in Frankreich) in Richtung Großbritannien vom Lenker immer beantragt werden?"
+        },
+        {
+            "answers": [
+                "Es reicht in jedem Fall eine Kontrolle nach dem Beladen des Fahrzeugs aus.",
+                "Es ist unmöglich, dass bei Raststätten im Ausland Menschen in den Laderäumen geschmuggelt werden.",
+                "Einwanderer werden immer nur in den Abgangshäfen illegal in den Laderaum geschmuggelt.",
+                "Ich kontrolliere vor der Abfahrt von einer Raststätte, ob an den Zollverschlüssen manipuliert wurde."
+            ],
+            "chapter": "3b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "230",
+            "question": "Was sollte der Lkw-Lenker beachten, wenn im grenzüberschreitenden Verkehr auf Raststätten angehalten wird."
+        },
+        {
+            "answers": [
+                "Es reicht in jedem Fall eine Kontrolle nach dem Beladen des Fahrzeugs aus.",
+                "Es ist unmöglich, dass bei Raststätten im Ausland Menschen in den Laderäumen geschmuggelt werden.",
+                "Einwanderer werden immer nur in den Abgangshäfen illegal in den Laderaum geschmuggelt.",
+                "Ich kontrolliere vor der Abfahrt von einer Raststätte, ob die angebrachten Schlösser manipuliert wurden."
+            ],
+            "chapter": "3b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "231",
+            "question": "Was sollte der Bus-Lenker beachten, wenn im grenzüberschreitenden Verkehr auf Raststätten angehalten wird."
+        },
+        {
+            "answers": [
+                "Ich frage einen Fahrerkollegen, der wird sicher alle Details wissen.",
+                "Aktuelle Checklisten sind bei Fährgesellschaften erhältlich (z. B. im Internet)",
+                "Ich kann mich da ganz auf mein eigenes Gefühl verlassen, ein kurzer Blick in den Laderaum genügt immer.",
+                "Die Behörden auf dem Festland können in jedem Fall garantieren, dass sich keine Personen illegal im Laderaum befinden."
+            ],
+            "chapter": "3b",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "232",
+            "question": "Wo kann man sich informieren, wie man sich davor schützen kann, dass illegale Einwanderer beim Fährverkehr in den Laderäumen geschmuggelt werden?"
+        },
+        {
+            "answers": [
+                "Einem Tankwart anvertraut werden.",
+                "Am besten im Zündschloss verbleiben.",
+                "Im Fahrzeug sicher verwahrt werden.",
+                "Mitgenommen werden."
+            ],
+            "chapter": "3b",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "233",
+            "question": "Der Fahrzeugschlüssel soll während des Tankvorganges?"
+        },
+        {
+            "answers": [
+                "Das \"Innenministerium\".",
+                "Das \"Aussenministerium\".",
+                "Österreichische Botschaften.",
+                "Die Polizei."
+            ],
+            "chapter": "3b",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "234",
+            "question": "Wer stellt Visa aus?"
+        },
+        {
+            "answers": [
+                "Gezielte gymnastische Übungen.",
+                "Viel sitzen und liegen",
+                "Gebeugte Haltung während der Fahrt",
+                "Möglichst wenig Bewegung machen."
+            ],
+            "chapter": "3c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "235",
+            "question": "Wodurch können Sie die Funktionsfähigkeit Ihrer Stützmuskulatur (z.B. der Rückenmuskulatur) erhalten?"
+        },
+        {
+            "answers": [
+                "Sie tragen auf einmal so viel Gewicht wie Sie gerade noch können",
+                "Sie gehen beim Heben in die Knie und halten den Rücken gerade ",
+                "Sie tragen die Last nicht nahe  am Körper",
+                "Ich trage lieber schwere Lasten und muss deshalb die Strecke weniger oft gehen"
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "236",
+            "question": "Wie beladen Sie möglichst ergonomisch bzw. gesundheitsschonend Ihr Fahrzeug?"
+        },
+        {
+            "answers": [
+                "Im Lendenwirbelbereich",
+                "Am Schienbein",
+                "In den Kniegelenken",
+                "beim Halswirbel"
+            ],
+            "chapter": "3c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "237",
+            "question": "Wo treten die größten körperlichen Belastungen auf, wenn Sie Lasten falsch heben?"
+        },
+        {
+            "answers": [
+                "Man beugt sich im Lendenwirbelbereich vor und hebt die Last mit möglichst gestreckten Beinen.",
+                "Man hält die Last möglichst weit vom Körper entfernt.",
+                "Man beugt die Knie und die Hüftgelenke, der Rücken soll möglichst gerade bleiben.",
+                "Zuerst kniet man sich nieder, nimmt die Last in die Hand und dann steht man auf."
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "238",
+            "question": "Wie hebt man eine Last richtig?"
+        },
+        {
+            "answers": [
+                "eines Herzinfarktes.",
+                "eines Schlaganfalles.",
+                "eines Blutgerinnsels in den Beinvenen.",
+                "eines Nierenversagens."
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "239",
+            "question": "Bei langen Fahrzeiten ohne Flüssigkeitszufuhr und starrer Beinhaltung besteht die Gefahr"
+        },
+        {
+            "answers": [
+                "Auflockerungsübungen, Spazieren gehen.",
+                "Fernsehen.",
+                "Im Fahrzeug sitzen bleiben und warten bis die Pause vorbei ist.",
+                "Lesen."
+            ],
+            "chapter": "3c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "240",
+            "question": "Die Verrichtung welcher Tätigkeiten wird in einer kurzen Fahrpause empfohlen?"
+        },
+        {
+            "answers": [
+                "möglichst einen Rundrücken bilden.",
+                "möglichst gestreckte Haltung und Gesäß dicht an der Sitzlehne.",
+                "die Halswirbelsäule überstrecken und Kopf leicht nach unten neigen.",
+                "die Lendenwirbelsäule leicht gedreht halten."
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "241",
+            "question": "Die richtige Sitzhaltung im Fahrzeugsitz ist"
+        },
+        {
+            "answers": [
+                "fördert die Konzentrationsfähigkeit.",
+                "fördert die Durchblutung des Gehirns",
+                "trainiert und verbessert die Hörfähigkeit.",
+                "vermindert die Konzentrationsfähigkeit."
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "242",
+            "question": "Andauernde, laute Radiomusik beim Autofahren"
+        },
+        {
+            "answers": [
+                "meine Sitzhaltung und Sitzposition möglichst nicht verändern und starr sitzen bleiben.",
+                "meine Sitzhaltung und Sitzposition möglichst häufig verändern z.B. leicht nach vorn beugen, zurücklehnen.",
+                "die Beine immer gestreckt halten und möglichst gar nicht beugen.",
+                "die Beine immer gebeugt halten und gar nicht strecken."
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "243",
+            "question": "Beim Auto fahren soll ich"
+        },
+        {
+            "answers": [
+                "die Beine möglichst völlig gestreckt sein.",
+                "die Beine möglichst stark gebeugt sein.",
+                "die Beine leicht angewinkelt sein.",
+                "die Stellung der Beine ist egal."
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "244",
+            "question": "Bei durchgetretenem Pedal sollen"
+        },
+        {
+            "answers": [
+                "kommen bei LKW- und Buslenkern nicht vor.",
+                "weniger als 1 % aller LKW- und Buslenker haben Probleme mit der Wirbelsäule.",
+                "ca. 30-40 % aller LKW- und Buslenker haben Probleme mit der Wirbelsäule.",
+                "entstehen nur bei zu schwerem Heben und Tragen."
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "245",
+            "question": "Wirbelsäulenerkrankungen und Rückenschmerzen"
+        },
+        {
+            "answers": [
+                "Vor dem Schlafen gehen Entspannungstechniken anwenden.",
+                "Vor dem Schlafen gehen übermäßig fettreiche Mahlzeiten zu konsumieren.",
+                "Viel Schlaf am Nachmittag. ",
+                "Vor dem Schlafen gehen übermäßig Alkohol konsumieren."
+            ],
+            "chapter": "3c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "246",
+            "question": "Was führt zu verbessertem Schlafverhalten?"
+        },
+        {
+            "answers": [
+                "Keine Sportausübung",
+                "Regelmäßig Mentaltraining praktizieren.",
+                "Regelmäßig Alkohol konsumieren.",
+                "Wenig schlafen"
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "247",
+            "question": "Wodurch kann die Widerstandsfähigkeit gegen Stress erhöht werden?"
+        },
+        {
+            "answers": [
+                "Zuckerhaltige Limonaden (3 Liter)",
+                "Energy Drinks (2 Dosen)",
+                "Radler (2 Liter)",
+                "Ungezuckerten Kräuter- oder Früchtetee (2-3 Liter)"
+            ],
+            "chapter": "3c",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "248",
+            "question": "Welche Flüssigkeiten und welche Mengen davon sollten Sie mindestens an einem Tag trinken?"
+        },
+        {
+            "answers": [
+                "steigert die geistige Leistungsfähigkeit und Konzentrationsfähigkeit beim Auto fahren.",
+                "hat keine Auswirkungen auf die geistige Leistungsfähigkeit und Konzentrationsfähigkeit.",
+                "vermindert die geistige Leistungsfähigkeit und Konzentrationsfähigkeit.",
+                "erhält man automatisch beim langen Auto fahren."
+            ],
+            "chapter": "3c",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "249",
+            "question": "Eine gute körperliche Kondition …"
+        },
+        {
+            "answers": [
+                "Deutliche Leistungssteigerung",
+                "Verlängerung der Reaktionszeit",
+                "Verbesserung der manuellen Geschicklichkeit",
+                "Verbesserung der Konzentration"
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "250",
+            "question": "Welche Auswirkungen auf die kraftfahrspezifische Leistungsfähigkeit können durch Alkoholkonsum auftreten?"
+        },
+        {
+            "answers": [
+                "Nein, die  Herzfrequenz hat mit dem Lenken eines Nutzfahrzeuges nichts zu tun",
+                "Nein, das ist viel zu hoch. Sie bewegt sich max. im Bereich zwischen 60-80 Schläge/Minute in Stresssituationen",
+                "Nein, diese Aussage ist auch für Gefahrensituationen nicht richtig.",
+                "Ja, diese Aussage ist richtig und darüber hinaus führt eine ständig zu hohe Herzfrequenz zu psychischen Stress und kann krank machen"
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "251",
+            "question": "Beim Lenken eines LKW/Bus kann die Herzfrequenz auf 140-160 Schläge / Minute steigen."
+        },
+        {
+            "answers": [
+                "100 -120 Schläge / Minute",
+                "180 - 200 Schläge / Minute",
+                "60 – 80 Schläge / Minute",
+                "Über 200 Schläge / Minute"
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "252",
+            "question": "Wie hoch ist die durchschnittliche Herzfrequenz eines Menschen im Ruhezustand?"
+        },
+        {
+            "answers": [
+                "Ich esse in meiner Mittagspause drei Leberkäsesemmeln",
+                "Ich esse in jeder Pause möglichst viel",
+                "Ich esse mehrere kleine, kohlehydratreiche, fettarme Mahlzeiten über den Tag verteilt",
+                "Ich esse nur einmal täglich, dafür jedoch eine vitaminreiche Mahlzeit"
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "253",
+            "question": "Durch welches Essverhalten können Sie Ihre Leistungs- bzw. Konzentrationsfähigkeit positiv beeinflussen?"
+        },
+        {
+            "answers": [
+                "Ich lasse meine Wut an anderen Verkehrsteilnehmern aus, bis es mir wieder besser geht.",
+                "Ich atme bewusst dreimal tief durch und konzentriere mich auf die Weiterfahrt.",
+                "Ich verhalte mich besonders zuvorkommend gegenüber den übrigen Verkehrsteilnehmern.",
+                "Sofern die Möglichkeit besteht, lege ich eine kurze Pause ein."
+            ],
+            "chapter": "3d",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "254",
+            "question": "Sie ärgern sich extrem über das Verhalten eines anderen Verkehrsteilnehmers. Wie sollten Sie sich nicht verhalten?"
+        },
+        {
+            "answers": [
+                "Ich fahre weiter, weil 300 km für mich leicht zu schaffen sind.",
+                "Ich lege eine Pause ein und betätige mich körperlich.",
+                "Ich fahre weiter und hoffe darauf, dass sich meine Müdigkeit nicht noch verstärkt.",
+                "Ich trinke einen Kaffee zum Aufputschen."
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "255",
+            "question": "Sie haben noch 300 km zu fahren und werden schon recht müde. Was tun Sie?"
+        },
+        {
+            "answers": [
+                "Ich fahre schneller und nütze jede Gelegenheit zum Spurwechsel.",
+                "Ich halte mich nicht an die vorgeschriebenen Geschwindigkeitsbeschränkungen",
+                "Ich mache die verlorene Zeit wieder gut, indem ich den vor mir fahrenden Fahrzeugen knapper auffahre.",
+                "Ich mache mir bewusst, dass schnelleres Fahren im Stadtverkehr meist nichts bringt und fahre normal weiter."
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "256",
+            "question": "Sie stehen unter Zeitdruck. Wie fahren Sie im dichten Stadtverkehr?"
+        },
+        {
+            "answers": [
+                "Ich trinke aus Kollegialität ein Bier mit, aber sicherlich kein Zweites.",
+                "Ich lehne strikt ab, weil schon kleine Alkoholmengen beeinträchtigen können.",
+                "Ich trinke ein Bier mit und nur wenn ich mich fit fühle, fahre ich weiter.",
+                "Ich trinke ein Bier mit, weil ich damit den Alkoholwert von 0,5 Promille nicht erreiche."
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "257",
+            "question": "Sie werden bei einer Fahrpause auf ein Bier (0,5 Liter) eingeladen. Wie verhalten Sie sich?"
+        },
+        {
+            "answers": [
+                "Besonders aufmerksam auf das eigenen Befinden achten und nur dann fahren, wenn man keine Kopfschmerzen fühlt.",
+                "Ein deftiges Frühstück zu sich nehmen und losfahren sobald man sich wieder besser fühlt",
+                "Einige aufputschende Medikamente nehmen und vorsichtig losfahren",
+                "Den ganzen nächsten Tag nicht fahren, weil noch immer die Gefahr einer Alkoholisierung besteht."
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "258",
+            "question": "Ein Berufsfahrer hat am Vorabend gefeiert und viel Alkohol getrunken. Nach wenigen Stunden Schlaf müsste er am nächsten Morgen fahren. Welches Verhalten wäre richtig?"
+        },
+        {
+            "answers": [
+                "Man wird ruhig und konzentriert",
+                "Häufiger Stress macht den Körper widerstandsfähig",
+                "Blutdruck und Herzfrequenz steigen und es kann zur Verringerung der Informationsverarbeitung im Gehirn kommen",
+                "Unter Stress trifft man leichter die richtigen Entscheidungen"
+            ],
+            "chapter": "3d",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "259",
+            "question": "Welche Auswirkungen hat Stress auf den Körper?"
+        },
+        {
+            "answers": [
+                "mit Rollschuhen oder Inline-Skates einzusteigen",
+                "Tiere mitzuführen, auch wenn diese gefährlich sind.",
+                "ein Fahrrad kostenlos in den Bus mitzunehmen.",
+                "Tiere mitzuführen, sofern sie nicht gefährlich sind und niemanden belästigen."
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "260",
+            "question": "Sie fahren mit einem Omnibus. Sofern genügend Platz vorhanden ist, hat der Fahrgast das Recht …"
+        },
+        {
+            "answers": [
+                "Mitgeführte Hunde müssen Leine, aber keinen Beißkorb tragen.",
+                "Mitgeführte Hunde müssen einen Beißkorb, aber keine Leine tragen.",
+                "Mitgeführte Hunde müssen sowohl Beißkorb als auch Leine tragen.",
+                "Hunde dürfen im Omnibus generell nicht befördert werden. "
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "261",
+            "question": "Sie fahren mit einem Omnibus. Als Fahrer haben sie dafür zu sorgen, dass Fahrgäste folgende Regeln befolgen:"
+        },
+        {
+            "answers": [
+                "Beförderung im Bus.",
+                "auf Ausschank von Getränken im Bus.",
+                "auf einen eigenen Sitzplatz für das mitgeführte Gepäck.",
+                "einen Sitzplatz im Bus."
+            ],
+            "chapter": "3e",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "262",
+            "question": "Mit dem Kauf der Fahrkarte besteht Anspruch des Fahrgastes auf …"
+        },
+        {
+            "answers": [
+                "einen gültigen Fahrausweis besitzen.",
+                "zwar leicht alkoholisiert sind, andere Personen aber nicht belästigen.",
+                "offensichtlich stark alkoholisiert sind und andere Fahrgäste belästigen.",
+                "einen Hund mit Beißkorb und Leine mitführen. "
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "263",
+            "question": "Ausgeschlossen von der Beförderung sind Personen, die …"
+        },
+        {
+            "answers": [
+                "Starke Beruhigungsmittel einzunehmen, um sofort wieder fahren zu können.",
+                "Mit niemandem über das Unfallerlebnis sprechen. ",
+                "Durch Alkoholkonsum versuchen, das Erlebte zu bewältigen",
+                "Strukturiertes Nachbesprechen des Unfallerlebnisses"
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "264",
+            "question": "Was kann zur besseren Verarbeitung eines Unfallerlebnisses beitragen? "
+        },
+        {
+            "answers": [
+                "Ich kläre als Erstes die Verschuldensfrage",
+                "Ich verständige als Erstes die Versicherung",
+                "Ich steige aus und begutachte den Schaden am Fahrzeug ",
+                "Ich alarmiere die Einsatzkräfte"
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "265",
+            "question": "Welche Maßnahmen sind bei einem Unfall mit Personenschaden zu setzen?"
+        },
+        {
+            "answers": [
+                "Austausch der Namen und Anschriften der Unfallbeteiligten",
+                "Ich verlasse so rasch als möglich den Unfallort und melde mich bei meinem Dienstgeber",
+                "Ich weise meinem Unfallgegner unverzüglich die Schuld zu ",
+                "Ich biete meinem Unfallgegner Geld an, damit er die Schuld auf sich nimmt"
+            ],
+            "chapter": "3e",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "266",
+            "question": "Welche Maßnahmen sind bei einem Unfall ausschließlich mit Sachschaden zu setzen?"
+        },
+        {
+            "answers": [
+                "Ich steige sofort aus und laufe auf den Gleisen in eine Richtung, um den Zugführer mittels Handzeichen zu warnen.",
+                "Ich lege den ersten Gang oder den Rückwärtsgang ein und durchbreche den geschlossenen Bahnschranken.",
+                "Bevor ich den Bus wegfahre, veranlasse ich, dass die Fahrgäste aussteigen",
+                "Ich verhalte mich ruhig und bleibe im Fahrzeug sitzen"
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "267",
+            "question": "Sie sind mit dem Bus zwischen den Bahnschranken eingeschlossen. Was machen Sie?"
+        },
+        {
+            "answers": [
+                "Ich lasse den Lautesten nach einer Verwarnung aussteigen, um eine sichere Weiterfahrt zu gewährleisten.",
+                "Bei der nächsten Haltstelle gebe ich den Kindern klare Verhaltensinstruktionen.",
+                "Ich bleibe sofort stehen und lasse eines der Kinder aussteigen ",
+                "Ich lasse bei der nächsten Haltestelle alle Kinder aussteigen. "
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "268",
+            "question": "Schulkinder sind im Bus extrem laut und unruhig. Wie reagieren Sie?"
+        },
+        {
+            "answers": [
+                "Ich bremse abrupt ab, so dass dieser erschreckt und somit sein aggressives Verhalten einstellt. ",
+                "Als Lenker bin ich nicht für den Schutz der anderen Fahrgäste verantwortlich. ",
+                "Nach einer Verwarnung fordere ich ihn auf, den Bus an der nächsten Haltestelle zu verlassen.",
+                "Ich weise ihn ohne Vorwarnung aus dem Fahrzeug."
+            ],
+            "chapter": "3e",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "269",
+            "question": "Ein Fahrgast belästigt andere Fahrgäste. Wie verhalten Sie sich?"
+        },
+        {
+            "answers": [
+                "die Beförderungsbedingungen mitzuführen",
+                "sich nicht an den Fahrplan zu halten",
+                "Fahrgespräche unter den Fahrgästen zu verhindern",
+                "Personen nur auf Sitzplätzen zu befördern"
+            ],
+            "chapter": "3f",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "270",
+            "question": "Der Buslenker ist im Linienverkehr verpflichtet,"
+        },
+        {
+            "answers": [
+                "seinen Dienst unter Drogeneinfluss anzutreten",
+                "pünktlich von der Haltestelle abzufahren",
+                "vor der Fahrt zur Beruhigung ein Glas Wein zu trinken",
+                "seinen Dienst alkoholisiert anzutreten"
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "271",
+            "question": "Dem Buslenker ist  es erlaubt,"
+        },
+        {
+            "answers": [
+                "Verfrüht von der Haltestelle abzufahren",
+                "Einen für die Fahrgäste angenehmen Fahrstil zu pflegen.",
+                "Möglichst schnelle Beschleunigung aus der Haltestelle heraus.",
+                "Bei Fragen der Fahrgäste stumm auf das Schild \"Nicht mit dem Fahrer sprechen\" deuten."
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "272",
+            "question": "Was fördert eine gute Beziehung zwischen Buslenker und Fahrgast?"
+        },
+        {
+            "answers": [
+                "Freundlich Auskünfte zu erteilen",
+                "Ignorieren von Fahrgästen",
+                "Sich um das Wohl der Fahrgäste zu kümmern.",
+                "Höfliches und entgegenkommendes Auftreten"
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "273",
+            "question": "Was sollte ein Buslenker im Umgang mit dem Fahrgast vermeiden?"
+        },
+        {
+            "answers": [
+                "Hilfsbereitschaft gegenüber Fahrgästen",
+                "Negative Äußerungen über Vorgesetzte",
+                "Herziehen über Kollegen",
+                "Unhöfliches Gestikulieren gegenüber anderen Verkehrsteilnehmern"
+            ],
+            "chapter": "3f",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "274",
+            "question": "Welche Verhaltensweisen des Buslenkers beeinflussen das Image des eigenen Unternehmens positiv?"
+        },
+        {
+            "answers": [
+                "Ich frage: \"Haben Sie irgendein Problem?\"",
+                "Ich ignoriere den Fahrgast.",
+                "Ich entschuldige mich wegen meiner Unpünktlichkeit",
+                "Ich werde ihm den Zutritt zu meinem Fahrzeug verwehren"
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "275",
+            "question": "Sie kommen mit Ihrem Bus verspätet zu einer Haltestelle. Ein Fahrgast steigt bei der Fahrertüre in den Bus ein, schaut mich an und zeigt mit seinem Zeigefinger auf seine Armbanduhr. Was ist ein richtiges kundenorientiertes Verhalten?"
+        },
+        {
+            "answers": [
+                "Gutes Aussehen haben",
+                "geringe Belastbarkeit",
+                "Sportliche Fitness",
+                "Hohes Anpassungsvermögen an unterschiedliche Situationen"
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "276",
+            "question": "Welche Fähigkeiten muss ein Buslenker mitbringen, um gute Dienstleistung anbieten zu können?"
+        },
+        {
+            "answers": [
+                "Ich bin ein unbedeutendes Rädchen im ganzen System, weil ich auch ziemlich schlecht bezahlt bin",
+                "Ich sehe mich als Aushängeschild des Unternehmens, d.h. ich bin Repräsentant des Unternehmens",
+                "Ich bin als Lenker sehr bedeutsam, daher steht es mir auch zu, mich bei verbalen Angriffen zur Wehr zu setzen.",
+                "Ich habe eine sehr wichtige Rolle, daher kann ich auch erwarten, dass die Kunden das machen, was ich anordne "
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "277",
+            "question": "Wie schätzen Sie Ihre Rolle als Berufslenker in einem Dienstleistungsunternehmen ein?"
+        },
+        {
+            "answers": [
+                "Diskussionsfreudigkeit",
+                "Durchsetzungsfähigkeit im Verkehr",
+                "Schnelle Fahrweise",
+                "Ein gepflegtes äußeres Erscheinungsbild"
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "278",
+            "question": "Was erwarten sich Fahrgäste von Ihnen als Buslenker?"
+        },
+        {
+            "answers": [
+                "Die Länge der Fahrtstrecke, die er bei mir im Fahrzeug ist",
+                "Er muss einige Male mit mir mitfahren, um mich beurteilen zu können",
+                "Das dauert nur einige Sekunden und der Fahrgast hat seine Meinung über mich ",
+                "Er kann sich über mich gar kein Bild machen, da der erste Eindruck immer falsch ist"
+            ],
+            "chapter": "3f",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "279",
+            "question": "Wie lange dauert es, bis sich der Kunde eine erste Meinung über Sie gebildet hat?"
+        },
+        {
+            "answers": [
+                "jeden Fahrgast per Handschlag zu begrüßen",
+                "während der Fahrt zu rauchen",
+                "sich von den Fahrgästen beschimpfen zu lassen",
+                "seinen Dienst ausgeruht anzutreten"
+            ],
+            "chapter": "3f ",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "280",
+            "question": "Der Buslenker ist verpflichtet"
+        },
+        {
+            "answers": [
+                "Herziehen über Kollegen",
+                "Gepflegtes äußeres Erscheinungsbild des Buslenkers",
+                "Negative Äußerungen über Vorgesetzte",
+                "Negative Äußerungen über Mitbewerber"
+            ],
+            "chapter": "3f ",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "281",
+            "question": "Welche Verhaltensweisen des Buslenkers beeinflussen das Image des eigenen\r\nUnternehmens positiv?"
+        },
+        {
+            "answers": [
+                "Werkverkehr nur innerhalb Österreichs stattfindet.",
+                "Materialien befördert werden, die der Lenker zur Berufsausübung benötigt.",
+                "Materialen befördert werden, die im Eigentum des Gewerbeinhabers stehen. ",
+                "Nur im Ortsgebiet gefahren wird."
+            ],
+            "chapter": "3g",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "282",
+            "question": "Im Werkverkehr benötigt man keinen Fahrerqualifizierungsnachweis, wenn"
+        },
+        {
+            "answers": [
+                "die Lenkberechtigung entzogen wird.",
+                "innerhalb von 3 Jahren keine Weiterbildung erfolgt.",
+                "innerhalb von 5 Jahren keine Weiterbildung erfolgt.",
+                "die Grundqualifikationsprüfung nicht alle 5 Jahre wiederholt wird."
+            ],
+            "chapter": "3g",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "283",
+            "question": "Der Fahrerqualifizierungsnachweis verliert seine Gültigkeit, wenn"
+        },
+        {
+            "answers": [
+                "für die gewerbsmäßige Beförderung mit Kfz mit einem höchst zulässigen Gesamtgewicht über 3,5 t.",
+                "für die Beförderung von Gütern im Schienenersatzverkehr.",
+                "für die Beförderungstätigkeit von Eisenbahnunternehmen.",
+                "für die Beförderung von Postsendungen."
+            ],
+            "chapter": "3g",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "284",
+            "question": "Das Unternehmen braucht eine Konzession für den Güterverkehr"
+        },
+        {
+            "answers": [
+                "3 Jahre.",
+                "4 Jahre.",
+                "5 Jahre.",
+                "6 Jahre."
+            ],
+            "chapter": "3g",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "285",
+            "question": "Der Fahrerqualifizierungsnachweis gilt für jeweils"
+        },
+        {
+            "answers": [
+                "35 Stunden in 3 Jahren.",
+                "35 Stunden in 5 Jahren.",
+                "30 Stunden in 5 Jahren.",
+                "50 Stunden in 3 Jahren."
+            ],
+            "chapter": "3g",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "286",
+            "question": "Die Dauer der Weiterbildung beträgt"
+        },
+        {
+            "answers": [
+                "Einer ermächtigten Ausbildungsstätte",
+                "Gewerbebehörde",
+                "Wirtschaftskammer od. Arbeiterkammer.",
+                "Im eigenen Betrieb."
+            ],
+            "chapter": "3g",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "287",
+            "question": "Die Weiterbildung ist zu absolvieren bei?"
+        },
+        {
+            "answers": [
+                "Alle Reisepässe",
+                "EU-Fahrtenheft",
+                "Zulassungsbescheinigung",
+                "Konzessionsurkunde"
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "288",
+            "question": "Sie befördern eine Gruppe von Personen im Gelegenheitsverkehr von Wien nach Salzburg. Welche Dokumente müssen Sie dabei mitführen?"
+        },
+        {
+            "answers": [
+                "EU-Fahrtenheft",
+                "EU-Lizenz bzw. beglaubigte Abschrift",
+                "Zulassungsschein",
+                "CMR Frachtbrief für eine Güterbeförderung"
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                false,
+                false,
+                true
+            ],
+            "correct": "3",
+            "id": "289",
+            "question": "Sie befördern eine Gruppe von Personen im Gelegenheitsverkehr von Wien nach Paris. Welches Dokument ist nicht erforderlich?"
+        },
+        {
+            "answers": [
+                "Alle Reisepässe.",
+                "EU-Fahrtenheft.",
+                "Zulassungsschein.",
+                "EU-Gemeinschaftslizenz."
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "290",
+            "question": "Sie befördern eine Gruppe von Personen im Gelegenheitsverkehr von Wien nach Salzburg. Welches Dokument müssen Sie dabei mitführen?"
+        },
+        {
+            "answers": [
+                "Lenker von Omnibussen des Bundesheeres.",
+                "Gewerbsmäßige Beförderung von Personen mit Omnibussen",
+                "Lenker des Ausflugswagen-Gewerbes mit Omnibussen.",
+                "Lenker im Kraftfahrlinienverkehr."
+            ],
+            "chapter": "3h",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "291",
+            "question": "Ein Fahrerqualifizierungsnachweis ist nicht erforderlich für:"
+        },
+        {
+            "answers": [
+                "Die Lenkerberechtigung entzogen wird.",
+                "Innerhalb von 3 Jahren keine Weiterbildung erfolgt.",
+                "Innerhalb von 5 Jahren keine Weiterbildung erfolgt.",
+                "Die Grundqualifikationsprüfung nicht alle 5 Jahre wiederholt wird."
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "292",
+            "question": "Der Fahrerqualifizierungsnachweis verliert seine Gültigkeit, wenn:"
+        },
+        {
+            "answers": [
+                "3 Jahre.",
+                "4 Jahre.",
+                "5 Jahre.",
+                "6 Jahre."
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "293",
+            "question": "Der Fahrerqualifizierungsnachweis gilt für jeweils:"
+        },
+        {
+            "answers": [
+                "35 Stunden in 3 Jahren.",
+                "35 Stunden in 5 Jahren.",
+                "30 Stunden in 5 Jahren.",
+                "50 Stunden in 3 Jahren."
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "294",
+            "question": "Die Dauer der Weiterbildung beträgt:"
+        },
+        {
+            "answers": [
+                "Einer ermächtigten Ausbildungsstätte",
+                "Gewerbebehörde",
+                "Wirtschaftskammer oder Arbeiterkammer.",
+                "Im eigenen Betrieb."
+            ],
+            "chapter": "3h",
+            "results": [
+                true,
+                false,
+                false,
+                false
+            ],
+            "correct": "0",
+            "id": "295",
+            "question": "Die Weiterbildung ist zu absolvieren bei:"
+        },
+        {
+            "answers": [
+                "Bestätigung über die bestandene praktische Grundqualifikationsprüfung.",
+                "Zeugnis über Grundqualifikationsprüfung.",
+                "Fahrerqualifizierungsnachweis bzw. Code 95",
+                "Nachweise über die durchgeführte Weiterbildung."
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                false,
+                true,
+                false
+            ],
+            "correct": "2",
+            "id": "296",
+            "question": "Bei der Fahrt ist im Omnibus mitzuführen?"
+        },
+        {
+            "answers": [
+                "Lenker des Mietwagen-Gewerbes mit Omnibussen.",
+                "Lenker des Taxi-Gewerbes.",
+                "Lenker des Stadtrundfahrten-Gewerbes mit Omnibussen.",
+                "Lenker des Gästewagengewerbes mit Omnibussen."
+            ],
+            "chapter": "3h",
+            "results": [
+                false,
+                true,
+                false,
+                false
+            ],
+            "correct": "1",
+            "id": "297",
+            "question": "Ein Fahrerqualifizierungsnachweis ist nicht erforderlich für:"
+        }
+    ]
+}
